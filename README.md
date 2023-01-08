@@ -6,11 +6,14 @@
   <br />
 </div>
 
-- **✏️ JavaScript로 문제 풀기!!**
+- **✏️ 언어는 JavaScript**
 
 - **😋 하루에 4문제!!** 
 
 - **⏲ 문제당 15분!!**
+
+<br />
+<br />
 
 ## Programmers 
 
@@ -18,5 +21,5 @@
 
 <br />
 
-> [프로그래머스 바로가기😝](https://school.programmers.co.kr/)
+> [프로그래머스 바로 가기😝](https://school.programmers.co.kr/)
 
