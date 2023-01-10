@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="./images/study.png" alt="note" width= "170px" height= "180px" />
+  <img src="./images/study.png" alt="note" width= "120px" height= "120px" />
   <br />
   <h1>  Algorithm 문풀 저장소  </h1>
   <br />

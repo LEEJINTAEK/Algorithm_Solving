@@ -22,4 +22,13 @@
 |    [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)     | [✏️](./배열의평균값.js) | ☑️ | 23.01.08 |
 |    [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)     | [✏️](./숫자비교하기.js) | ☑️ | 23.01.08 |
 |    [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)     | [✏️](./짝수의합.js) | ☑️ | 23.01.08 |
+|    [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)     | [✏️](./양꼬치.js) | math공부 | 23.01.09 |
+|    [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)     | [✏️](./중복된숫자.js) | ☑️ | 23.01.09 |
+|    [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)     | [✏️](./배열뒤집기.js) | ☑️ | 23.01.09 |
+|    [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)     | [✏️](./배열원소의길이.js) | map()공부 | 23.01.09 |
+|    [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)     | [✏️](./아메리카노.js) | ☑️ | 23.01.09 |
+|    [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)     | [✏️](./짝수홀수.js) | ☑️ | 23.01.09 |
+|    [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)     | [✏️](./배열두배.js) | ☑️ | 23.01.09 |
+|    [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)     | [✏️](./편지.js) | ☑️ | 23.01.09 |    
+|    [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)     | [✏️](./배열자르기.js) | ☑️ | 23.01.09 |
     
