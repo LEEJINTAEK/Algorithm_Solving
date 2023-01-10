@@ -31,4 +31,7 @@
 |    [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)     | [✏️](./배열두배.js) | ☑️ | 23.01.09 |
 |    [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)     | [✏️](./편지.js) | ☑️ | 23.01.09 |    
 |    [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)     | [✏️](./배열자르기.js) | ☑️ | 23.01.09 |
-    
+|    [점의 위치 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/120841)     | [✏️](./점위치구하기.js) | ☑️ | 23.01.10 |
+|    [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)     | [✏️](./특정문자제거.js) | ☑️ | 23.01.10 |
+|    [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)     | [✏️](./문자반복출력.js) | 😠 | 23.01.10 |
+|    [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)     | [✏️](./문자열뒤집기.js) | ☑️ | 23.01.10 |
