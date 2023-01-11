@@ -35,3 +35,7 @@
 |    [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)     | [✏️](./특정문자제거.js) | ☑️ | 23.01.10 |
 |    [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)     | [✏️](./문자반복출력.js) | 😠 | 23.01.10 |
 |    [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)     | [✏️](./문자열뒤집기.js) | ☑️ | 23.01.10 |
+|    [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)     | [✏️](./배열의유사도.js) | filter() | 23.01.11 |
+|    [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)     | [✏️](./옷가게할인.js) | ☑️ | 23.01.11 |
+|    [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)     | [✏️](./중앙값구하기.js) | ☑️ | 23.01.11 |
+|    [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)     | [✏️](./짝수는싫어요.js) | ☑️ | 23.01.11 |
