@@ -39,3 +39,7 @@
 |    [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)     | [✏️](./옷가게할인.js) | ☑️ | 23.01.11 |
 |    [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)     | [✏️](./중앙값구하기.js) | ☑️ | 23.01.11 |
 |    [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)     | [✏️](./짝수는싫어요.js) | ☑️ | 23.01.11 |
+|    [문자열 안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908)     | [✏️](./문자열안에문자.js) | ☑️ | 23.01.12 |
+|    [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)     | [✏️](./순서쌍개수.js) | ☑️ | 23.01.12 |
+|    [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)     | [✏️](./자릿수더하기.js) | 형변환 | 23.01.12 |
+|    [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)     | [✏️](./제곱수판별.js) | ☑️ | 23.01.12 |
