@@ -47,3 +47,7 @@
 |       [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)       |    [✏️](./세균증식.js)    |     ☑️     | 23.01.14 |
 |       [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)       |    [✏️](./암호해독.js)    |     ☑️     | 23.01.14 |
 |       [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)       |    [✏️](./모음제거.js)    |     😈     | 23.01.14 |
+|     [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)      |   [✏️](./가위바위보.js)   |     😟     | 23.01.14 |
+|  [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)  |   [✏️](./직각삼각형.js)   |     😈     | 23.01.14 |
+|       [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)       |    [✏️](./개미군단.js)    |     ☑️     | 23.01.14 |
+|     [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)     |   [✏️](./주사위개수.js)   |     ☑️     | 23.01.14 |
