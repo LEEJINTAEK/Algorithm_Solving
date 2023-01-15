@@ -51,3 +51,7 @@
 |  [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)  |   [✏️](./직각삼각형.js)   |     😈     | 23.01.14 |
 |       [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)       |    [✏️](./개미군단.js)    |     ☑️     | 23.01.14 |
 |     [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)     |   [✏️](./주사위개수.js)   |     ☑️     | 23.01.14 |
+|  [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)   | [✏️](./피자나눠먹기1.js)  |     ☑️     | 23.01.15 |
+|  [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)   | [✏️](./피자나눠먹기2.js)  |     ☑️     | 23.01.15 |
+|  [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)   | [✏️](./피자나눠먹기3.js)  |     ☑️     | 23.01.15 |
+|    [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)    | [✏️](./대문자와소문자.js) |     😟     | 23.01.15 |
