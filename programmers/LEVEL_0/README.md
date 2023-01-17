@@ -59,3 +59,6 @@
 |   [배열 회전 시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)    | [✏️](./배열회전시키기.js) |    😠    | 23.01.16 |
 |      [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)      |   [✏️](./약수구하기.js)   |    ☑️    | 23.01.16 |
 |     [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)     |  [✏️](./인덱스바꾸기.js)  |    😟    | 23.01.16 |
+|       [369 게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)        |    [✏️](./369게임.js)     |    ☑️    | 23.01.16 |
+|       [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)       |    [✏️](./숫자찾기.js)    |    ☑️    | 23.01.16 |
+|    [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)    | [✏️](.외계행성의나이.js)  |    😟    | 23.01.16 |
