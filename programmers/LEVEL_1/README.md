@@ -30,3 +30,8 @@
 |    [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)     |   [✏️](./제일작은수제거.js)   |  ☑️   | 23.01.23 |
 |         [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)          |     [✏️](./음양더하기.js)     |  ☑️   | 23.01.23 |
 |       [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)       |   [✏️](./없는숫자더하기.js)   |  ☑️   | 23.01.23 |
+|     [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)     |     [✏️](./가운데글자.js)     |  ☑️   | 23.01.24 |
+|   [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)    |      [✏️](./수박수박.js)      |  ☑️   | 23.01.24 |
+|             [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)             |        [✏️](./내적.js)        |  ☑️   | 23.01.24 |
+| [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) |    [✏️](./내림차순배치.js)    |  ☑️   | 23.01.24 |
+|      [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)      |   [✏️](./약수의갯수덧셈.js)   |  😵   | 23.01.24 |
