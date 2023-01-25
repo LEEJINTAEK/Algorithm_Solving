@@ -84,3 +84,4 @@
 |   [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850)    | [✏️](./문자열정렬하기1.js)  |  ☑️   | 23.01.21 |
 |   [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)    | [✏️](./문자열정렬하기2.js)  |  ☑️   | 23.01.21 |
 |       [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)       |    [✏️](./모스부호1.js)     |  😟   | 23.01.21 |
+|         [공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)         |     [✏️](./공던지기.js)     |  😟   | 23.01.26 |
