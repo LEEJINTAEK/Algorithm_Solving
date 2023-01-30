@@ -45,3 +45,8 @@
 |         [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)          |  [✏️](./이상한문자만들기.js)  |  ☑️   | 23.01.28 |
 |                [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                 |        [✏️](./예산.js)        |  😵   | 23.01.28 |
 |              [시저암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)               |      [✏️](./시저암호.js)      |  ☑️   | 23.01.28 |
+|            [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)             |    [✏️](./최소직사각형.js)    |  😵   | 23.01.29 |
+|               [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)               |       [✏️](./삼총사.js)       |  ☑️   | 23.01.29 |
+|            [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)            |    [✏️](./보물찾기1차.js)     |  🥵   | 23.01.29 |
+|     [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)     |   [✏️](./문자열마음대로.js)   |  🥵   | 23.01.29 |
+|               [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)               |      [✏️](./k번째수.js)       |  😵   | 23.01.29 |
