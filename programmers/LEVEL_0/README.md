@@ -89,3 +89,4 @@
 | [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [✏️](./숨어있는숫자덧셈2.js) |  😟   | 23.01.30 |
 |     [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)      |  [✏️](./문자열계산하기.js)   |  😟   | 23.01.30 |
 |  [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)   |  [✏️](./삼각형완성조건2.js)  |  😟   | 23.01.30 |
+|       [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)        |    [✏️](./외계어사전.js)     |  😟   | 23.01.30 |
