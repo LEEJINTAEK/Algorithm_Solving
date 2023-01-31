@@ -50,3 +50,8 @@
 |            [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)            |    [✏️](./보물찾기1차.js)     |  🥵   | 23.01.29 |
 |     [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)     |   [✏️](./문자열마음대로.js)   |  🥵   | 23.01.29 |
 |               [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)               |      [✏️](./k번째수.js)       |  😵   | 23.01.29 |
+|        [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         |  [✏️](./숫자문자열영단어.js)  |  😵   | 23.01.31 |
+|         [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)         |  [✏️](./두개뽑아서더하기.js)  |  ☑️   | 23.01.31 |
+|               [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)                |       [✏️](./2016년.js)       |  ☑️   | 23.01.31 |
+|                [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                |       [✏️](./폰켓몬.js)       |  ☑️   | 23.01.31 |
+|             [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)              |      [✏️](./콜라문제.js)      |  😵   | 23.01.31 |
