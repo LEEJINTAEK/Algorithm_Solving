@@ -55,3 +55,8 @@
 |               [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)                |       [✏️](./2016년.js)       |  ☑️   | 23.01.31 |
 |                [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                |       [✏️](./폰켓몬.js)       |  ☑️   | 23.01.31 |
 |             [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)              |      [✏️](./콜라문제.js)      |  😵   | 23.01.31 |
+|      [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)       |  [✏️](./크기가작은문자열.js)  |  ☑️   | 23.02.01 |
+|              [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)              |      [✏️](./소수찾기.js)      |  🥵   | 23.02.01 |
+|             [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)             |     [✏️](./소수만들기.js)     |  🥵   | 23.02.01 |
+|              [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)               |      [✏️](./모의고사.js)      |  🥵   | 23.02.01 |
+|          [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)          |   [✏️](./푸드파이트대회.js)   |  😵   | 23.02.01 |
