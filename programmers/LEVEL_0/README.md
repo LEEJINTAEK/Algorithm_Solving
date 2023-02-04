@@ -90,3 +90,9 @@
 |     [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)      |  [✏️](./문자열계산하기.js)   |  😟   | 23.01.30 |
 |  [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)   |  [✏️](./삼각형완성조건2.js)  |  😟   | 23.01.30 |
 |       [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)        |    [✏️](./외계어사전.js)     |  😟   | 23.01.30 |
+|       [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)        |    [✏️](./종이자르기.js)     |  ☑️   | 23.02.03 |
+|   [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)   |   [✏️](./직사각형넓이.js)    |  ☑️   | 23.02.03 |
+|       [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)       |    [✏️](./로그인성공.js)     |  ☑️   | 23.02.03 |
+|        [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)         |     [✏️](./치킨쿠폰.js)      |  ☑️   | 23.02.03 |
+|      [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)       |    [✏️](./캐릭터좌표.js)     |  😟   | 23.02.03 |
+|    [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)     |   [✏️](./유한소수판별.js)    |  😟   | 23.02.03 |
