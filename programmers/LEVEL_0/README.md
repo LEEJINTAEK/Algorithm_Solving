@@ -96,3 +96,13 @@
 |        [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)         |     [✏️](./치킨쿠폰.js)      |  ☑️   | 23.02.03 |
 |      [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)       |    [✏️](./캐릭터좌표.js)     |  😟   | 23.02.03 |
 |    [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)     |   [✏️](./유한소수판별.js)    |  😟   | 23.02.03 |
+|       [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)        |    [✏️](./문자열밀기.js)     |  ☑️   | 23.02.04 |
+|       [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)        |    [✏️](./등수매기기.js)     |  ☑️   | 23.02.04 |
+|       [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)        |    [✏️](./특이한정렬.js)     |  😟   | 23.02.04 |
+|      [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)       |    [✏️](./저주의숫자3.js)    |  ☑️   | 23.02.04 |
+|      [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)       |   [✏️](./다항식더하기.js)    |       | 23.02.04 |
+|      [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)       |   [✏️](./최빈값구하기.js)    |       | 23.02.04 |
+|          [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)          |      [✏️](./OX퀴즈.js)       |       | 23.02.04 |
+|      [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)      |   [✏️](./다음에올숫자.js)    |  ☑️   | 23.02.04 |
+|       [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)        |    [✏️](./분수의덧셈.js)     |  ☑️   | 23.02.04 |
+|      [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)      |   [✏️](./연속된수의합.js)    |  😟   | 23.02.04 |
