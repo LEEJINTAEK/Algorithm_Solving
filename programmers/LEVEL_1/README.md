@@ -67,3 +67,6 @@
 |              [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)              |      [✏️](./과일장수.js)      |       | 23.02.07 |
 |           [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)           |      [✏️](./다트게임.js)      |       | 23.02.07 |
 |             [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)              |      [✏️](./숫자짝꿍.js)      |       | 23.02.07 |
+|               [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                |       [✏️](./체육복.js)       |       | 23.02.08 |
+|          [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)           |    [✏️](./기사단원무기.js)    |       | 23.02.08 |
+|    [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)     |        [✏️](./로또.js)        |       | 23.02.08 |
