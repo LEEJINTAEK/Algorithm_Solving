@@ -70,3 +70,6 @@
 |               [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                |       [✏️](./체육복.js)       |       | 23.02.08 |
 |          [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)           |    [✏️](./기사단원무기.js)    |       | 23.02.08 |
 |    [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)     |        [✏️](./로또.js)        |       | 23.02.08 |
+|             [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)              |      [✏️](./옹알이2.js)       |       | 23.02.08 |
+|            [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)            |    [✏️](./키패드누르기.js)    |       | 23.02.08 |
+|           [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)            |    [✏️](./문자열나누기.js)    |       | 23.02.09 |
