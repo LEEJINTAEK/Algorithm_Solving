@@ -29,7 +29,8 @@
 
 ## Inflearn
 
-👉 [Section1](./inflearn/%EC%84%B8%EC%85%981/README.md) <br />
+👉 [Section1(기본문제)](./inflearn/%EC%84%B8%EC%85%981/README.md) <br />
+👉 [Section2(1,2차원 배열 탐색)](./inflearn/%EC%84%B9%EC%85%982/README.md) <br />
 
 <br />
 
