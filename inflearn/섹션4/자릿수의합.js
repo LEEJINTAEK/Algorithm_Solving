@@ -40,7 +40,7 @@ console.log(solution(7, arr));
 
 //풀이 2
 
-function solution(n, arr) {
+function solution2(n, arr) {
   let answer,
     max = Number.MIN_SAFE_INTEGER;
   for (let x of arr) {
@@ -60,5 +60,5 @@ function solution(n, arr) {
   return answer;
 }
 
-let arr = [128, 460, 603, 40, 521, 137, 123];
-console.log(solution(7, arr));
+let arr2 = [128, 460, 603, 40, 521, 137, 123];
+console.log(solution2(7, arr2));

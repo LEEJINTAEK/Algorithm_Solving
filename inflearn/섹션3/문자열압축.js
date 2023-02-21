@@ -11,19 +11,20 @@
 // ▣ 출력예제 1
 // K2HS7E
 
-function solution(s) {
-  let answer = "";
-  let dup = 1;
-  s = s + " ";
-  for (let i = 0; i < s.length - 1; i++) {
-    if (s[i] === s[i + 1]) dup++;
-    else {
-      answer += s[i];
-      if (dup > 1) answer += String(dup);
-      dup = 1;
+function solution(s){
+    let answer="";
+    let cnt=1;
+    s=s+" ";
+    for(let i=0; i<s.length-1; i++){
+        if(s[i]===s[i+1]) cnt++;
+        else{
+            answer+=s[i];
+            if(cnt>1) answer+=String(cnt);
+            cnt=1;
+        }
     }
-  }
-  return s + "";
+    return answer;
 }
+
 let str = "KKHSSSSSSSE";
 console.log(solution(str));
