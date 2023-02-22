@@ -33,6 +33,7 @@
 👉 [Section2(1,2차원 배열 탐색)](./inflearn/%EC%84%B9%EC%85%982/README.md) <br />
 👉 [Section3(문자열 탐색)](./inflearn/%EC%84%B9%EC%85%983/README.md) <br />
 👉 [Section4(완전 탐색)](./inflearn/%EC%84%B9%EC%85%984/README.md) <br />
+👉 [Section5(효율성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬))](./inflearn/%EC%84%B9%EC%85%985/README.md) <br />
 
 <br />
 
