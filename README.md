@@ -35,6 +35,7 @@
 👉 [Section4(완전 탐색)](./inflearn/%EC%84%B9%EC%85%984/README.md) <br />
 👉 [Section5(효율성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬))](./inflearn/%EC%84%B9%EC%85%985/README.md) <br />
 👉 [Section6(자료구조(스택, 큐))](./inflearn/%EC%84%B9%EC%85%986/README.md) <br />
+👉 [Section7(정렬과 그리디, 결정알고리즘(이분검색))](./inflearn/%EC%84%B9%EC%85%987/README.md) <br />
 
 <br />
 
