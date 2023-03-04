@@ -28,6 +28,7 @@ function solution(n, f) {
 
   let answer,
     flag = 0;
+    
   function combi(n, r) {
     if (dy[n][r] > 0) return dy[n][r];
     if (n === r || r === 0) return 1;
