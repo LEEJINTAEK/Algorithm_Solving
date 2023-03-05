@@ -38,6 +38,7 @@
 👉 [Section7(정렬과 그리디, 결정알고리즘(이분검색))](./inflearn/%EC%84%B9%EC%85%987/README.md) <br />
 👉 [Section8(재귀함수와 완전탐색(DFS:깊이우선탐색))](./inflearn/%EC%84%B9%EC%85%988/README.md) <br />
 👉 [Section9(그래프와 탐색(DFS, BFS:넓이우선탐색))](./inflearn/%EC%84%B9%EC%85%989/README.md) <br />
+👉 [Section10(Dynamic programming(동적계획법 ))](./inflearn/%EC%84%B9%EC%85%9810/README.md) <br />
 
 <br />
 
