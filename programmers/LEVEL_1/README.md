@@ -74,3 +74,5 @@
 |            [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)            |    [✏️](./키패드누르기.js)    |       | 23.02.08 |
 |           [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)            |    [✏️](./문자열나누기.js)    |       | 23.02.09 |
 |        [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)         |   [✏️](./크레인인형뽑기.js)   |  ☑️   | 23.02.20 |
+|           [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)            |       [✏️](./햄버거.js)       |  ☑️   | 23.03.06 |
+|            [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)             |     [✏️](./둘만의암호.js)     |  ☑️   | 23.03.06 |
