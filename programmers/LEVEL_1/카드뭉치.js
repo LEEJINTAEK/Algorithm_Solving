@@ -3,19 +3,16 @@
 //풀이1
 
 function solution1(cards1, cards2, goal) {
-  for (const s of goal) {
-    let result = [];
-    let tem;
-    if (cards1[0] === s) {
-      tem = cards2.shift();
-    }
-    if (cards2[0] === s) {
-      tem = cards2.shift();
-    }
-    result.push(tem);
+  let answer = "Yes";
+  for (const word of goal) {
+    cards1[0] === word
+      ? cards2.shift()
+      : cards2[0] === word
+      ? cards2.shift()
+      : (answer = "No");
   }
 
-  return result.join("") === goal.join("") ? "Yes" : "No";
+  return answer;
 }
 
 //다른 풀이2
