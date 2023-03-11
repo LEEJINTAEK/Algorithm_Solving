@@ -77,3 +77,6 @@
 |           [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)            |       [✏️](./햄버거.js)       |  ☑️   | 23.03.06 |
 |            [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)             |     [✏️](./둘만의암호.js)     |  ☑️   | 23.03.06 |
 |             [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)              |      [✏️](./카드뭉치.js)      |  ☑️   | 23.03.10 |
+|          [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)           |   [✏️](./신규아이디추천.js)   |  ☑️   | 23.03.10 |
+|           [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)            |    [✏️](./신고결과받기.js)    |       | 23.03.11 |
+|         [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)         |    [✏️](./성격유형검사.js)    |       | 23.03.11 |
