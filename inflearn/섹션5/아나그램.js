@@ -25,8 +25,8 @@
 //풀이 1
 
 function solution(str1, str2) {
-  str1 = str1.toUpperCase().split("").sort().join("");
-  str2 = str2.toUpperCase().split("").sort().join("");
+  str1 = str1.split("").sort().join("");
+  str2 = str2.split("").sort().join("");
   return str1 === str2 ? "YES" : "NO";
 }
 
@@ -34,22 +34,25 @@ let a = "AbaAeCe";
 let b = "baeeACA";
 console.log(solution(a, b));
 
-//풀이 2
+//풀이 2 (해쉬)
 
 function solution2(str1, str2) {
-  let answer = "YES";
-  let sH = new Map();
-  for (let x of str1) {
-    if (sH.has(x)) sH.set(x, sH.get(x) + 1);
-    else sH.set(x, 1);
+  let checkBox = new Map();
+  for (const alph1 of str1) {
+    checkBox.has(alph1)
+      ? checkBox.set(alph1, checkBox.get(alph1) + 1)
+      : checkBox.set(alph1, 1);
   }
-  for (let x of str2) {
-    if (!sH.has(x) || sH.get(x) === 0) return "NO";
-    sH.set(x, sH.get(x) - 1);
+  for (const alph2 of str2) {
+    if (!checkBox.has(alph2) || checkBox.get(alph2) === 0) {
+      return "No";
+    }
+    checkBox.set(alph2, checkBox.get(alph2) - 1);
   }
-  return answer;
+
+  return "Yes";
 }
 
-let c = "AbaAeCe";
-let d = "baeeACA";
+let c = "abaCC";
+let d = "Cq";
 console.log(solution2(c, d));

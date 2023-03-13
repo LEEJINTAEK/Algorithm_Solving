@@ -19,17 +19,23 @@
 //풀이 1
 
 function solution(m, arr) {
-  let answer = 0,
-    li = 0,
-    sum = 0;
-  for (let ri = 0; ri < arr.length; ri++) {
-    sum += arr[ri];
-    if (sum === m) answer++;
+  let lp = 0;
+  let sum = 0;
+  let answer = 0;
+  for (let rp = 0; rp < arr.length; rp++) {
+    sum = sum + arr[rp];
+    if (sum === m) {
+      answer = answer + 1;
+    }
     while (sum >= m) {
-      sum -= arr[li++];
-      if (sum === m) answer++;
+      sum = sum - arr[lp];
+      lp = lp + 1;
+      if (sum === m) {
+        answer = answer + 1;
+      }
     }
   }
+
   return answer;
 }
 

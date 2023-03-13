@@ -35,14 +35,17 @@ console.log(solution(3, a));
 //풀이 2
 
 function solution2(k, arr) {
-  let answer,
-    sum = 0;
-  for (let i = 0; i < k; i++) sum += arr[i];
+  let sum = 0,
+    answer = Number.MIN_SAFE_INTEGER;
+  for (let start = 0; start < k; start++) {
+    sum = sum + arr[start];
+  }
   answer = sum;
   for (let i = k; i < arr.length; i++) {
-    sum += arr[i] - arr[i - k];
+    sum = sum + arr[i] - arr[i - k];
     answer = Math.max(answer, sum);
   }
+
   return answer;
 }
 

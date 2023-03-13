@@ -20,18 +20,48 @@
 //풀이 1
 
 function solution(m, arr) {
-  let answer = 0,
-    sum = 0,
-    lt = 0;
-  for (let rt = 0; rt < arr.length; rt++) {
-    sum += arr[rt];
-    while (sum > m) {
-      sum -= arr[lt++];
+  let sum = 0,
+    lt = 0,
+    answer = 0;
+  for (let rp = 0; rp < arr.length; rp++) {
+    if (arr[rp] < m) {
+      answer = answer + 1;
     }
-    answer += rt - lt + 1;
+    sum = sum + arr[rp];
+    while (sum >= m) {
+      if (sum === m) {
+        answer = answer + 1;
+      }
+      sum = sum - arr[lt];
+      if (sum < m) {
+        answer = answer + 1;
+      }
+      lt = lt + 1;
+    }
   }
+
   return answer;
 }
 
 let a = [1, 3, 1, 2, 3];
 console.log(solution(5, a));
+
+//풀이 2
+
+function solution2(m, arr) {
+  let sum = 0,
+    lp = 0,
+    answer = 0;
+  for (let rp = 0; rp < arr.length; rp++) {
+    sum = sum + arr[rp];
+    while (sum > 5) {
+      sum = sum - arr[lp];
+      lp += 1;
+    }
+    answer = answer + (rp - lp + 1);
+  }
+
+  return answer;
+}
+
+console.log(solution2(5, a));
