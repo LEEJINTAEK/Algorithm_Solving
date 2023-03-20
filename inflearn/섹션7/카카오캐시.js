@@ -34,22 +34,31 @@
 // 7 5 3 2 6
 
 function solution(size, arr) {
-  let answer = Array.from({ length: size }, () => 0);
-  arr.forEach((x) => {
-    let p = -1;
-    for (let i = 0; i < size; i++) if (x === answer[i]) p = x;
-    if (p === -1) {
-      for (let i = size - 1; i >= 1; i--) {
-        answer[i] = answer[i - 1];
-      }
-    } else {
-      for (let i = p; i >= 1; i--) {
-        answer[i] = answer[i - 1];
+  let cache = Array.from({ length: size }, () => 0);
+
+  arr.forEach((el) => {
+    let hit = -1; //flag
+
+    for (let i = 0; i < size; i++) {
+      if (el === cache[i]) {
+        hit = i;
       }
     }
-    answer[0] = x;
+
+    if (hit === -1) {
+      for (let i = size - 1; i >= 1; i--) {
+        cache[i] = cache[i - 1];
+      }
+    }
+
+    //hit
+    for (let i = hit; i >= 1; i--) {
+      cache[i] = cache[i - 1];
+    }
+    cache[0] = el;
   });
-  return answer;
+
+  return cache;
 }
 
 let arr = [1, 2, 3, 2, 6, 2, 3, 5, 7];

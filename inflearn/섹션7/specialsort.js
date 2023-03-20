@@ -28,12 +28,3 @@ function solution(arr) {
 
 let arr = [1, 2, 3, -3, -2, 5, 6, -6];
 console.log(solution(arr));
-
-
-//풀이 2
-function solution2(arr) {
-  return arr.sort((a, b) => a - b);
-}
-
-let arr2 = [1, 2, 3, -3, -2, 5, 6, -6];
-console.log(solution2(arr));

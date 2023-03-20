@@ -24,21 +24,27 @@
 // ▣ 출력예제 2
 // 2
 
-//풀이 1
+//그리디
 
 function solution(meeting) {
-  let meet = arr.slice().sort((a, b) => {
-    if (a[1] === b[1]) return a[0] - b[0];
-    else return a[1] - b[1];
-  });
-  let endTime = 0;
   let answer = 0;
-  for (let x of meet) {
-    if (x[0] >= endTime) {
-      answer++;
-      endTime = x[1];
+
+  let meet = meeting.slice().sort((a, b) => {
+    if (a[1] === b[1]) {
+      return a[0] - b[0];
+    }
+    return a[1] - b[1];
+  });
+
+  let endTime = 0;
+
+  for (let time of meet) {
+    if (time[0] >= endTime) {
+      answer += 1;
+      endTime = time[1];
     }
   }
+
   return answer;
 }
 
