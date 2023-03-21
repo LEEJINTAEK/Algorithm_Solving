@@ -19,7 +19,8 @@ function solution(arr) {
   let answer = arr;
   for (let i = 0; i < arr.length; i++) {
     let tmp = arr[i];
-    for (let j = i - 1; j >= 0; j--) {
+    let j;
+    for (j = i - 1; j >= 0; j--) {
       if (arr[j] > tmp) arr[j + 1] = arr[j];
       else break;
     }

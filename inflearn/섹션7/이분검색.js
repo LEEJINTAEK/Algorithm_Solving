@@ -13,17 +13,17 @@
 // ▣ 출력예제 1
 // 3
 
-//풀이 1
+//이분검색
 function solution(target, arr) {
   arr.sort((a, b) => a - b);
-  let lt = 0;
-  let rt = arr.length - 1;
-  while (lt <= rt) {
-    let mid = parseInt((lt + rt) / 2);
-    if (arr[mid] === target) return mid + 1;
-    else {
-      arr[mid] > target ? (rt = mid - 1) : (lt = mid + 1);
+  let lPoint = 0;
+  let rPoint = arr.length - 1;
+  while (lPoint <= rPoint) {
+    let mid = parseInt((lPoint + rPoint) / 2);
+    if (arr[mid] === target) {
+      return mid + 1;
     }
+    arr[mid] > target ? (rPoint = mid - 1) : (lPoint = mid + 1);
   }
 }
 
