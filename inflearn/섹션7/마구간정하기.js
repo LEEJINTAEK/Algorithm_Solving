@@ -17,29 +17,34 @@
 // ▣ 출력예제 1
 // 3
 
-function count(stable, dist) {
-  let cnt = 1,
-    ep = stable[0];
+// 이분검색 결정 알고리즘
+function count(stable, max) {
+  let cnt = 1;
+  let endPoint = stable[0];
   for (let i = 1; i < stable.length; i++) {
-    if (stable[i] - ep >= dist) {
-      cnt++;
-      ep = stable[i];
+    if (stable[i] - endPoint >= max) {
+      cnt += 1;
+      endPoint = stable[i];
     }
   }
+
   return cnt;
 }
 function solution(c, stable) {
-  let answer;
   stable.sort((a, b) => a - b);
-  let lt = 1;
-  let rt = stable[stable.length - 1];
-  while (lt <= rt) {
-    let mid = parseInt((lt + rt) / 2);
+  let answer;
+  let lP = 1;
+  let rP = stable[stable.length - 1];
+  while (lP <= rP) {
+    let mid = parseInt((lP + rP) / 2);
     if (count(stable, mid) >= c) {
       answer = mid;
-      lt = mid + 1;
-    } else rt = mid - 1;
+      lP = mid + 1;
+    } else {
+      rP = mid - 1;
+    }
   }
+
   return answer;
 }
 

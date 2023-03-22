@@ -22,29 +22,37 @@
 // 설명 : 3개의 DVD용량이 17분짜리이면 (1, 2, 3, 4, 5) (6, 7), (8, 9) 이렇게 3개의 DVD로 녹음을 할
 // 수 있다. 17분 용량보다 작은 용량으로는 3개의 DVD에 모든 영상을 녹화할 수 없다
 
+//이분검색
+
 function count(songs, capacity) {
   let cnt = 1;
   let sum = 0;
-  for (let x of songs) {
-    if (sum + x > capacity) {
-      cnt++;
-      sum = x;
-    } else sum += x;
+  for (const dvd of songs) {
+    if (sum + dvd > capacity) {
+      cnt += 1;
+      sum = dvd;
+    } else {
+      sum += dvd;
+    }
   }
+
   return cnt;
 }
 
 function solution(m, songs) {
   let answer;
-  let lt = Math.max(...songs);
-  let rt = songs.reduce((a, b) => a + b, 0);
-  while (lt <= rt) {
-    let mid = parseInt((lt + rt) / 2);
+  let lP = Math.max(...songs);
+  let rP = songs.reduce((a, b) => a + b, 0);
+  while (lP <= rP) {
+    let mid = parseInt((rP + lP) / 2);
     if (count(songs, mid) <= m) {
       answer = mid;
-      rt = mid - 1;
-    } else lt = mid + 1;
+      rP = mid - 1;
+    } else {
+      lP = mid + 1;
+    }
   }
+
   return answer;
 }
 
