@@ -18,5 +18,16 @@ function solution(s) {
   return "NO";
 }
 
+//풀이 2 탐색
+function solution2(s) {
+  s = s.toLowerCase();
+  for (let i = 0; i < Math.floor(s.length / 2); i++) {
+    if (s[i] !== s[s.length - i - 1]) {
+      return "NO";
+    }
+  }
+  return "YES";
+}
 let str = "gooG";
 console.log(solution(str));
+console.log(solution2(str));

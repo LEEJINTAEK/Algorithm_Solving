@@ -13,10 +13,25 @@
 // ▣ 출력예제 1
 // 208
 
+//풀이 1
 function solution(str) {
   let answer = [...str].filter((x) => x >= 0);
+
   return Number(answer.join(""));
+}
+
+//풀이 2 탐색 (isNaN 사용 > Not clean)
+function solution2(str) {
+  let answer = "";
+  for (const s of str) {
+    if (!isNaN(s)) {
+      answer += s;
+    }
+  }
+
+  return +answer;
 }
 
 let str = "g0e000n2T0s8eSoft";
 console.log(solution(str));
+console.log(solution2(str));

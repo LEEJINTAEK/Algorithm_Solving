@@ -42,23 +42,28 @@ console.log(solution(str, "e"));
 function solution2(s, t) {
   let answer = [];
   let p = 1000;
-  for (let x of s) {
+  for (const x of s) {
     if (x === t) {
       p = 0;
       answer.push(p);
-    } else {
-      p++;
+    }
+    if (x !== t) {
+      p += 1;
       answer.push(p);
     }
   }
-  p = 1000;
+
+  p = 1000; //초기화
   for (let i = s.length - 1; i >= 0; i--) {
-    if (s[i] === t) p = 0;
-    else {
-      p++;
+    if (s[i] === t) {
+      p = 0;
+    }
+    if (s[i] !== t) {
+      p += 1;
       answer[i] = Math.min(answer[i], p);
     }
   }
+
   return answer;
 }
 
