@@ -24,13 +24,18 @@
 // YES
 
 function solution(need, plan) {
-  let needs = need.split("");
-  for (let x of plan) {
-    if (needs.includes(x)) {
-      if (x !== needs.shift()) return "NO";
+  let needs = [...need];
+  for (const subject of plan) {
+    if (needs.includes(subject)) {
+      if (subject !== needs.shift()) {
+        return "NO";
+      }
     }
   }
-  if (needs.length > 0) return "NO";
+  if (needs.length > 0) {
+    return "NO";
+  }
+
   return "YES";
 }
 

@@ -37,16 +37,17 @@
 
 function solution(s) {
   let stack = [];
-  let answer = 0;
+  let stick = 0;
   for (let i = 0; i < s.length; i++) {
-    if (s[i] === "(") stack.push(s[i]);
-    else {
+    if (s[i] === "(") {
+      stack.push(s[i]);
+    } else {
       stack.pop();
-      if (s[i - 1] === "(") answer += stack.length;
-      else answer++;
+      s[i - 1] === "(" ? (stick += stack.length) : (stick += 1);
     }
   }
-  return answer;
+
+  return stick;
 }
 
 let a = "()(((()())(())()))(())";
