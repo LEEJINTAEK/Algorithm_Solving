@@ -15,17 +15,27 @@
 
 function solution(s) {
   let stack = [];
-  for (let x of s) {
-    if (!isNaN(x)) stack.push(Number(x));
-    else {
-      let rt = stack.pop();
-      let lt = stack.pop();
-      if (x === "+") stack.push(lt + rt);
-      if (x === "-") stack.push(lt - rt);
-      if (x === "*") stack.push(lt * rt);
-      if (x === "/") stack.push(lt / rt);
+  for (let n of s) {
+    if (!isNaN(n)) {
+      stack.push(Number(n));
+    } else {
+      let right = stack.pop();
+      let left = stack.pop();
+      if (n === "+") {
+        stack.push(left + right);
+      }
+      if (n === "-") {
+        stack.push(left - right);
+      }
+      if (n === "*") {
+        stack.push(left * right);
+      }
+      if (n === "/") {
+        stack.push(left / right);
+      }
     }
   }
+
   return stack[0];
 }
 

@@ -35,22 +35,25 @@
 // 4
 
 function solution(board, moves) {
-  let answer = 0;
+  let count = 0;
   let stack = [];
-  moves.forEach((x) => {
+  moves.forEach((pos) => {
     for (let i = 0; i < board.length; i++) {
-      if (board[i][x - 1] !== 0) {
-        let temp = board[i][x - 1];
-        board[i][x - 1] = 0;
-        if (temp === stack[stack.length - 1]) {
+      if (board[i][pos - 1] !== 0) {
+        let tmp = board[i][pos - 1];
+        board[i][pos - 1] = 0;
+        if (tmp === stack[stack.length - 1]) {
           stack.pop();
-          answer += 2;
-        } else stack.push(temp);
+          count += 2;
+        } else {
+          stack.push(tmp);
+        }
         break;
       }
     }
   });
-  return answer;
+
+  return count;
 }
 let a = [
   [0, 0, 0, 0, 0],

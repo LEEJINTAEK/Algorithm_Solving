@@ -80,3 +80,4 @@
 |          [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)           |   [✏️](./신규아이디추천.js)   |  ☑️   | 23.03.10 |
 |           [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)            |    [✏️](./신고결과받기.js)    |       | 23.03.11 |
 |         [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)         |    [✏️](./성격유형검사.js)    |       | 23.03.11 |
+|              [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)              |      [✏️](./덧칠하기.js)      |  ☑️   | 23.03.11 |

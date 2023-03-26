@@ -32,6 +32,7 @@ function solution(s, t) {
       answer[j] = sum2;
     }
   }
+  
   return answer;
 }
 

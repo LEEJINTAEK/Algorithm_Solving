@@ -13,10 +13,12 @@
 function solution(s) {
   let stack = [];
   for (let x of s) {
+    stack.push(x);
     if (x === ")") {
       while (stack.pop() !== "(");
-    } else stack.push(x);
+    }
   }
+
   return stack.join("");
 }
 
