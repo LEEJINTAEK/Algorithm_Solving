@@ -33,7 +33,7 @@
 |       [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)        |    [✏️](./배열자르기.js)     |  ☑️   | 23.01.09 |
 |    [점의 위치 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/120841)     |   [✏️](./점위치구하기.js)    |  ☑️   | 23.01.10 |
 |    [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)    |   [✏️](./특정문자제거.js)    |  ☑️   | 23.01.10 |
-|    [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)    |   [✏️](./문자반복출력.js)    |  😠   | 23.01.10 |
+|    [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)    |   [✏️](./문자반복출력.js)    |  ☑️   | 23.01.10 |
 |      [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)       |   [✏️](./문자열뒤집기.js)    |  ☑️   | 23.01.10 |
 |      [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)       |   [✏️](./배열의유사도.js)    |  ☑️   | 23.01.11 |
 |     [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)     |    [✏️](./옷가게할인.js)     |  ☑️   | 23.01.11 |
@@ -46,19 +46,19 @@
 |     [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)      |   [✏️](./n의배수고르기.js)   |  ☑️   | 23.01.14 |
 |        [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)         |     [✏️](./세균증식.js)      |  ☑️   | 23.01.14 |
 |        [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)         |     [✏️](./암호해독.js)      |  ☑️   | 23.01.14 |
-|        [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)         |     [✏️](./모음제거.js)      |  😈   | 23.01.14 |
-|       [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)       |    [✏️](./가위바위보.js)     |  😟   | 23.01.14 |
-|   [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)    |    [✏️](./직각삼각형.js)     |  😈   | 23.01.14 |
+|        [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)         |     [✏️](./모음제거.js)      |  ☑️   | 23.01.14 |
+|       [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)       |    [✏️](./가위바위보.js)     |  ☑️   | 23.01.14 |
+|   [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)    |    [✏️](./직각삼각형.js)     |  ☑️   | 23.01.14 |
 |        [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)         |     [✏️](./개미군단.js)      |  ☑️   | 23.01.14 |
 |      [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)       |    [✏️](./주사위개수.js)     |  ☑️   | 23.01.14 |
 |    [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)    |   [✏️](./피자나눠먹기1.js)   |  ☑️   | 23.01.15 |
 |    [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)    |   [✏️](./피자나눠먹기2.js)   |  ☑️   | 23.01.15 |
 |    [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)    |   [✏️](./피자나눠먹기3.js)   |  ☑️   | 23.01.15 |
-|     [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)      |  [✏️](./대문자와소문자.js)   |  😟   | 23.01.15 |
-|     [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)      |   [✏️](./가장큰수찾기.js)    |  😠   | 23.01.16 |
-|     [배열 회전 시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)     |  [✏️](./배열회전시키기.js)   |  😠   | 23.01.16 |
+|     [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)      |  [✏️](./대문자와소문자.js)   |  ☑️   | 23.01.15 |
+|     [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)      |   [✏️](./가장큰수찾기.js)    |  ☑️   | 23.01.16 |
+|     [배열 회전 시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)     |  [✏️](./배열회전시키기.js)   |  ☑️   | 23.01.16 |
 |       [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)        |    [✏️](./약수구하기.js)     |  ☑️   | 23.01.16 |
-|      [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)       |   [✏️](./인덱스바꾸기.js)    |  😟   | 23.01.16 |
+|      [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)       |   [✏️](./인덱스바꾸기.js)    |  ☑️   | 23.01.16 |
 |         [369 게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)         |      [✏️](./369게임.js)      |  ☑️   | 23.01.17 |
 |        [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)         |     [✏️](./숫자찾기.js)      |  ☑️   | 23.01.17 |
 |     [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)      |  [✏️](./외계행성의나이.js)   |  😟   | 23.01.17 |

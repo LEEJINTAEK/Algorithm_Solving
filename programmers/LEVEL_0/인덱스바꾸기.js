@@ -3,15 +3,14 @@
 //풀이 1
 
 function solution(my_string, num1, num2) {
-  let array = [];
-  let temp = "";
-  array = my_string.split("");
+  let tmp;
+  my_string = [...my_string];
 
-  temp = array[num1];
-  array[num1] = array[num2];
-  array[num2] = temp;
+  tmp = my_string[num1];
+  my_string[num1] = my_string[num2];
+  my_string[num2] = tmp;
 
-  return array.join("");
+  return my_string.join("");
 }
 
 //풀이 2

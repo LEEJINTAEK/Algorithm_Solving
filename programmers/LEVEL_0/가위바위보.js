@@ -2,9 +2,8 @@
 
 // 풀이 1
 function solution(rsp) {
-  return rsp
-    .split("")
-    .map((x) => (x === "0" ? "5" : x === "5" ? "2" : "0"))
+  return [...rsp]
+    .map((n) => (n === "0" ? "5" : n === "2" ? "0" : "2"))
     .join("");
 }
 
