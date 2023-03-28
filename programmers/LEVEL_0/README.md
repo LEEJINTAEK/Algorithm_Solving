@@ -61,13 +61,13 @@
 |      [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)       |   [✏️](./인덱스바꾸기.js)    |  ☑️   | 23.01.16 |
 |         [369 게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)         |      [✏️](./369게임.js)      |  ☑️   | 23.01.17 |
 |        [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)         |     [✏️](./숫자찾기.js)      |  ☑️   | 23.01.17 |
-|     [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)      |  [✏️](./외계행성의나이.js)   |  😟   | 23.01.17 |
-|       [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)        |    [✏️](./합성수찾기.js)     |  😠   | 23.01.17 |
-|     [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)     |  [✏️](./중복된문자제거.js)   |  😠   | 23.01.18 |
+|     [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)      |  [✏️](./외계행성의나이.js)   |  ☑️   | 23.01.17 |
+|       [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)        |    [✏️](./합성수찾기.js)     |  ☑️   | 23.01.17 |
+|     [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)     |  [✏️](./중복된문자제거.js)   |  ☑️   | 23.01.18 |
 |         [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)         |     [✏️](./팩토리얼.js)      |  ☑️   | 23.01.18 |
-|       [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)       |     [✏️](./팩토리얼.js)      |  😟   | 23.01.18 |
-|     [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)     |    [✏️](./2차원만들기.js)    |  😟   | 23.01.18 |
-|        [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)         |     [✏️](./가까운수.js)      |  😟   | 23.01.19 |
+|       [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)       |    [✏️](./A로B만들기.js)     |  ☑️   | 23.01.18 |
+|     [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)     |    [✏️](./2차원만들기.js)    |  ☑️   | 23.01.18 |
+|        [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)         |     [✏️](./가까운수.js)      |  ☑️   | 23.01.19 |
 |         [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)         |      [✏️](./k의개수.js)      |  ☑️   | 23.01.19 |
 |     [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)      |  [✏️](./진료순서정하기.js)   |  😟   | 23.01.19 |
 |   [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)    |    [✏️](./한번만등장.js)     |  😈   | 23.01.19 |
