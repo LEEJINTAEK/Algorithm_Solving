@@ -6,10 +6,13 @@ function solution(n) {
     let count = 0;
     for (let j = 1; j <= i; j++) {
       if (i % j === 0) {
-        count++;
+        count += 1;
       }
     }
-    if (count >= 3) answer++;
+    if (count >= 3) {
+      answer += 1;
+    }
   }
+
   return answer;
 }
