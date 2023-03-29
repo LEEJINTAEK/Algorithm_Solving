@@ -69,11 +69,11 @@
 |     [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)     |    [✏️](./2차원만들기.js)    |  ☑️   | 23.01.18 |
 |        [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)         |     [✏️](./가까운수.js)      |  ☑️   | 23.01.19 |
 |         [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)         |      [✏️](./k의개수.js)      |  ☑️   | 23.01.19 |
-|     [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)      |  [✏️](./진료순서정하기.js)   |  😟   | 23.01.19 |
-|   [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)    |    [✏️](./한번만등장.js)     |  😈   | 23.01.19 |
+|     [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)      |  [✏️](./진료순서정하기.js)   |  ☑️   | 23.01.19 |
+|   [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)    |    [✏️](./한번만등장.js)     |  ☑️   | 23.01.19 |
 |      [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)       |   [✏️](./이진수더하기.js)    |  ☑️   | 23.01.20 |
 |         [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)         |      [✏️](./7의개수.js)      |  ☑️   | 23.01.20 |
-|      [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)       |   [✏️](./영어가싫어요.js)    |  😈   | 23.01.20 |
+|      [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)       |   [✏️](./영어가싫어요.js)    |  ☑️   | 23.01.20 |
 |  [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)  |    [✏️](./잘라서배열.js)     |  😟   | 23.01.20 |
 | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)  |       [✏️](./구슬.js)        |  😠   | 23.01.20 |
 |       [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)        |      [✏️](./컨트롤z.js)      |  😈   | 23.01.21 |
