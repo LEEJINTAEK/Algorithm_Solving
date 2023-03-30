@@ -74,22 +74,22 @@
 |      [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)       |   [✏️](./이진수더하기.js)    |  ☑️   | 23.01.20 |
 |         [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)         |      [✏️](./7의개수.js)      |  ☑️   | 23.01.20 |
 |      [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)       |   [✏️](./영어가싫어요.js)    |  ☑️   | 23.01.20 |
-|  [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)  |    [✏️](./잘라서배열.js)     |  😟   | 23.01.20 |
-| [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)  |       [✏️](./구슬.js)        |  😠   | 23.01.20 |
-|       [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)        |      [✏️](./컨트롤z.js)      |  😈   | 23.01.21 |
+|  [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)  |    [✏️](./잘라서배열.js)     |  ☑️   | 23.01.20 |
+| [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)  |       [✏️](./구슬.js)        |  ☑️   | 23.01.20 |
+|       [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)        |      [✏️](./컨트롤z.js)      |  ☑️   | 23.01.21 |
 |    [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)     |   [✏️](./최댓값만들기.js)    |  ☑️   | 23.01.21 |
 |    [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862)     |   [✏️](./최댓값만들기2.js)   |  ☑️   | 23.01.21 |
 | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | [✏️](./숨어있는숫자덧셈.js)  |  ☑️   | 23.01.21 |
 |  [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)   |  [✏️](./삼각형완성조건1.js)  |  ☑️   | 23.01.21 |
 |   [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850)    |  [✏️](./문자열정렬하기1.js)  |  ☑️   | 23.01.21 |
 |   [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)    |  [✏️](./문자열정렬하기2.js)  |  ☑️   | 23.01.21 |
-|       [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)       |     [✏️](./모스부호1.js)     |  😟   | 23.01.21 |
-|         [공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)         |     [✏️](./공던지기.js)      |  😟   | 23.01.26 |
-|        [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)        |    [✏️](./소인수분해.js)     |  😈   | 23.01.27 |
-| [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [✏️](./숨어있는숫자덧셈2.js) |  😟   | 23.01.30 |
-|     [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)      |  [✏️](./문자열계산하기.js)   |  😟   | 23.01.30 |
-|  [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)   |  [✏️](./삼각형완성조건2.js)  |  😟   | 23.01.30 |
-|       [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)        |    [✏️](./외계어사전.js)     |  😟   | 23.01.30 |
+|       [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)       |     [✏️](./모스부호1.js)     |  ☑️   | 23.01.21 |
+|         [공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)         |     [✏️](./공던지기.js)      |  ☑️   | 23.01.26 |
+|        [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)        |    [✏️](./소인수분해.js)     |  ☑️   | 23.01.27 |
+| [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [✏️](./숨어있는숫자덧셈2.js) |  ☑️   | 23.01.30 |
+|     [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)      |  [✏️](./문자열계산하기.js)   |  ☑️   | 23.01.30 |
+|  [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)   |  [✏️](./삼각형완성조건2.js)  |  ☑️   | 23.01.30 |
+|       [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)        |    [✏️](./외계어사전.js)     |  ☑️   | 23.01.30 |
 |       [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)        |    [✏️](./종이자르기.js)     |  ☑️   | 23.02.03 |
 |   [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)   |   [✏️](./직사각형넓이.js)    |  ☑️   | 23.02.03 |
 |       [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)       |    [✏️](./로그인성공.js)     |  ☑️   | 23.02.03 |
