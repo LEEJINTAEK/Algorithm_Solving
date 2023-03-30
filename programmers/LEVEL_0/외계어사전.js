@@ -6,6 +6,10 @@ function solution1(spell, dic) {
 }
 
 //풀이 2
-function solution2(p, d) {
-  return d.some((s) => p.sort().toString() == [...s].sort().toString()) ? 1 : 2;
+function solution(spell, dic) {
+  return dic.some(
+    (check) => spell.sort().toString() === [...check].sort().toString()
+  )
+    ? 1
+    : 2;
 }

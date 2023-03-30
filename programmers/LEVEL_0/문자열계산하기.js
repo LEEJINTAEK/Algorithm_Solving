@@ -1,17 +1,17 @@
 //풀이 1
-function solution1(my_string) {
-  let answer = [];
+function solution(my_string) {
+  let stack = [];
+  const string = my_string.split(" ");
   let acc = 1;
-  for (const x of my_string.split(" ")) {
-    if (x === "+") {
-      acc = 1;
-    } else if (x === "-") {
-      acc = -1;
-    } else {
-      answer.push(x * acc);
-    }
+  for (const number of string) {
+    number === "-"
+      ? (acc = -1)
+      : number === "+"
+      ? (acc = 1)
+      : stack.push(number * acc);
   }
-  return answer.reduce((a, b) => a + b, 0);
+
+  return stack.reduce((a, b) => a + b);
 }
 
 //풀이 2
