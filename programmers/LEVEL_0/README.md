@@ -94,7 +94,7 @@
 |   [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)   |   [✏️](./직사각형넓이.js)    |  ☑️   | 23.02.03 |
 |       [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)       |    [✏️](./로그인성공.js)     |  ☑️   | 23.02.03 |
 |        [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)         |     [✏️](./치킨쿠폰.js)      |  ☑️   | 23.02.03 |
-|      [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)       |    [✏️](./캐릭터좌표.js)     |  😟   | 23.02.03 |
+|      [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)       |    [✏️](./캐릭터좌표.js)     |  ☑️   | 23.02.03 |
 |    [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)     |   [✏️](./유한소수판별.js)    |  😟   | 23.02.03 |
 |       [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)        |    [✏️](./문자열밀기.js)     |  ☑️   | 23.02.04 |
 |       [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)        |    [✏️](./등수매기기.js)     |  ☑️   | 23.02.04 |
