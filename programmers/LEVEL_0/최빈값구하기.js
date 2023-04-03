@@ -26,6 +26,7 @@ function solution1(array) {
 }
 
 //풀이 2
+
 function solution2(array) {
   let map = new Map();
   for (let n of array) {
