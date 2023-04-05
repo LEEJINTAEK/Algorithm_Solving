@@ -34,11 +34,11 @@
 |       [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)       |      [✏️](./수박수박.js)      |  ☑️   | 23.01.24 |
 |                [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)                 |        [✏️](./내적.js)        |  ☑️   | 23.01.24 |
 |    [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)     |    [✏️](./내림차순배치.js)    |  ☑️   | 23.01.24 |
-|         [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)          |   [✏️](./약수의갯수덧셈.js)   |  😵   | 23.01.24 |
-|         [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)          |    [✏️](./문자열다루기.js)    |  😵   | 23.01.25 |
+|         [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)          |   [✏️](./약수의갯수덧셈.js)   |  ☑️   | 23.01.24 |
+|         [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)          |    [✏️](./문자열다루기.js)    |  ☑️   | 23.01.25 |
 |        [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)         |     [✏️](./부족한금액.js)     |  ☑️   | 23.01.25 |
-|             [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)             |      [✏️](./행렬덧셈.js)      |  🥵   | 23.01.25 |
-| [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=javascript) |     [✏️](./직사각형별.js)     |  😵   | 23.01.25 |
+|             [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)             |      [✏️](./행렬덧셈.js)      |  ☑️   | 23.01.25 |
+| [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=javascript) |     [✏️](./직사각형별.js)     |       | 23.01.25 |
 |       [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)       |    [✏️](./공약수공배수.js)    |  😵   | 23.01.25 |
 |          [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)           |    [✏️](./같은숫자싫어.js)    |  ☑️   | 23.01.28 |
 |            [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)             |    [✏️](./3진법뒤집기.js)     |  ☑️   | 23.01.28 |
