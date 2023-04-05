@@ -1,5 +1,3 @@
 function solution(s) {
-  return (s.length === 4 || s.length === 6) && !s.match(/[^0-9]/g)
-    ? true
-    : false;
+  return (s.length === 4 || s.length === 6) && !s.match(/[a-zA-Z]/g);
 }
