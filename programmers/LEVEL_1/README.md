@@ -39,26 +39,26 @@
 |        [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)         |     [✏️](./부족한금액.js)     |  ☑️   | 23.01.25 |
 |             [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)             |      [✏️](./행렬덧셈.js)      |  ☑️   | 23.01.25 |
 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=javascript) |     [✏️](./직사각형별.js)     |       | 23.01.25 |
-|       [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)       |    [✏️](./공약수공배수.js)    |  😵   | 23.01.25 |
+|       [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)       |    [✏️](./공약수공배수.js)    |       | 23.01.25 |
 |          [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)           |    [✏️](./같은숫자싫어.js)    |  ☑️   | 23.01.28 |
 |            [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)             |    [✏️](./3진법뒤집기.js)     |  ☑️   | 23.01.28 |
 |         [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)          |  [✏️](./이상한문자만들기.js)  |  ☑️   | 23.01.28 |
-|                [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                 |        [✏️](./예산.js)        |  😵   | 23.01.28 |
+|                [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                 |        [✏️](./예산.js)        |       | 23.01.28 |
 |              [시저암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)               |      [✏️](./시저암호.js)      |  ☑️   | 23.01.28 |
-|            [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)             |    [✏️](./최소직사각형.js)    |  😵   | 23.01.29 |
+|            [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)             |    [✏️](./최소직사각형.js)    |       | 23.01.29 |
 |               [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)               |       [✏️](./삼총사.js)       |  ☑️   | 23.01.29 |
-|            [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)            |    [✏️](./보물찾기1차.js)     |  🥵   | 23.01.29 |
-|     [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)     |   [✏️](./문자열마음대로.js)   |  🥵   | 23.01.29 |
-|               [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)               |      [✏️](./k번째수.js)       |  😵   | 23.01.29 |
-|        [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         |  [✏️](./숫자문자열영단어.js)  |  😵   | 23.01.31 |
+|            [[1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)            |    [✏️](./보물찾기1차.js)     |       | 23.01.29 |
+|     [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)     |   [✏️](./문자열마음대로.js)   |       | 23.01.29 |
+|               [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)               |      [✏️](./k번째수.js)       |       | 23.01.29 |
+|        [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         |  [✏️](./숫자문자열영단어.js)  |       | 23.01.31 |
 |         [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)         |  [✏️](./두개뽑아서더하기.js)  |  ☑️   | 23.01.31 |
 |               [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)                |       [✏️](./2016년.js)       |  ☑️   | 23.01.31 |
 |                [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                |       [✏️](./폰켓몬.js)       |  ☑️   | 23.01.31 |
-|             [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)              |      [✏️](./콜라문제.js)      |  😵   | 23.01.31 |
+|             [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)              |      [✏️](./콜라문제.js)      |       | 23.01.31 |
 |      [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)       |  [✏️](./크기가작은문자열.js)  |  ☑️   | 23.02.01 |
-|              [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)              |      [✏️](./소수찾기.js)      |  🥵   | 23.02.01 |
-|             [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)             |     [✏️](./소수만들기.js)     |  🥵   | 23.02.01 |
-|              [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)               |      [✏️](./모의고사.js)      |  🥵   | 23.02.01 |
+|              [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)              |      [✏️](./소수찾기.js)      |       | 23.02.01 |
+|             [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)             |     [✏️](./소수만들기.js)     |       | 23.02.01 |
+|              [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)               |      [✏️](./모의고사.js)      |       | 23.02.01 |
 |          [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)          |   [✏️](./푸드파이트대회.js)   |  😵   | 23.02.01 |
 |          [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)           |     [✏️](./명예의전당.js)     |  ☑️   | 23.02.02 |
 |         [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)          |    [✏️](./완주하지못한.js)    |  ☑️   | 23.02.02 |
