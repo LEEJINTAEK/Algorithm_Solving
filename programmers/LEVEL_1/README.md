@@ -39,11 +39,11 @@
 |        [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)         |     [✏️](./부족한금액.js)     |  ☑️   | 23.01.25 |
 |             [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)             |      [✏️](./행렬덧셈.js)      |  ☑️   | 23.01.25 |
 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=javascript) |     [✏️](./직사각형별.js)     |       | 23.01.25 |
-|       [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)       |    [✏️](./공약수공배수.js)    |       | 23.01.25 |
+|       [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)       |    [✏️](./공약수공배수.js)    |  ☑️   | 23.01.25 |
 |          [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)           |    [✏️](./같은숫자싫어.js)    |  ☑️   | 23.01.28 |
 |            [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)             |    [✏️](./3진법뒤집기.js)     |  ☑️   | 23.01.28 |
 |         [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)          |  [✏️](./이상한문자만들기.js)  |  ☑️   | 23.01.28 |
-|                [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                 |        [✏️](./예산.js)        |       | 23.01.28 |
+|                [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                 |        [✏️](./예산.js)        |  ☑️   | 23.01.28 |
 |              [시저암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)               |      [✏️](./시저암호.js)      |  ☑️   | 23.01.28 |
 |            [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)             |    [✏️](./최소직사각형.js)    |       | 23.01.29 |
 |               [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)               |       [✏️](./삼총사.js)       |  ☑️   | 23.01.29 |
