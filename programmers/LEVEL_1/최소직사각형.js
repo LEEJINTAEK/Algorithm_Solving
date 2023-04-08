@@ -6,6 +6,7 @@ function solution1(sizes) {
     max[i] = Math.max(...x);
     min[i] = Math.min(...x);
   });
+
   return Math.max(...max) * Math.max(...min);
 }
 
@@ -18,5 +19,6 @@ function solution2(sizes) {
     if (w > maxSize[0]) maxSize[0] = w;
     if (h > maxSize[1]) maxSize[1] = h;
   });
+
   return maxSize[0] * maxSize[1];
 }
