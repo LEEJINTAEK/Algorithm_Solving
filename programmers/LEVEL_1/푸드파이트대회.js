@@ -1,15 +1,14 @@
 //풀이 1
 function solution(food) {
-  //인덱스를 문자로 바꾸고 반복
-  let half = food
-    .map((x, i) => (i > 0 ? i.toString().repeat(parseInt(x / 2)) : ""))
+  let halfPos = food
+    .map((eat, i) => (i > 0 ? i.toString().repeat(parseInt(eat / 2)) : ""))
     .join("");
 
-  return half + 0 + [...half].reverse().join("");
+  return halfPos + 0 + [...halfPos].reverse().join("");
 }
 
 //풀이 2
-function solution(food) {
+function solution2(food) {
   var answer = "";
   let arr = [];
 
