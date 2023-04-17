@@ -59,7 +59,7 @@
 |              [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)              |      [✏️](./소수찾기.js)      |  ☑️   | 23.02.01 |
 |             [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)             |     [✏️](./소수만들기.js)     |  ☑️   | 23.02.01 |
 |              [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)               |      [✏️](./모의고사.js)      |  ☑️   | 23.02.01 |
-|          [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)          |   [✏️](./푸드파이트대회.js)   |  😵   | 23.02.01 |
+|          [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)          |   [✏️](./푸드파이트대회.js)   |  ☑️   | 23.02.01 |
 |          [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)           |     [✏️](./명예의전당.js)     |  ☑️   | 23.02.02 |
 |         [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)          |    [✏️](./완주하지못한.js)    |  ☑️   | 23.02.02 |
 |       [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)        |   [✏️](./가장가까운글자.js)   |       | 23.02.02 |
@@ -82,3 +82,4 @@
 |         [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)         |    [✏️](./성격유형검사.js)    |       | 23.03.11 |
 |              [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)              |      [✏️](./덧칠하기.js)      |  ☑️   | 23.03.11 |
 |              [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)              |      [✏️](./추억점수.js)      |  ☑️   | 23.04.14 |
+|            [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)             |     [✏️](./달리기경주.js)     |       |          |
