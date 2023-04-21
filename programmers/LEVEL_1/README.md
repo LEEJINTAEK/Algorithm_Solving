@@ -63,7 +63,7 @@
 |          [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)           |     [✏️](./명예의전당.js)     |  ☑️   | 23.02.02 |
 |         [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)          |    [✏️](./완주하지못한.js)    |  ☑️   | 23.02.02 |
 |       [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)        |   [✏️](./가장가까운글자.js)   |  ☑️   | 23.02.02 |
-|               [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                |       [✏️](./실패율.js)       |       | 23.02.07 |
+|               [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                |     [✏️](./실패율.js) ☑️      |       | 23.02.07 |
 |              [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)              |      [✏️](./과일장수.js)      |       | 23.02.07 |
 |           [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)           |      [✏️](./다트게임.js)      |       | 23.02.07 |
 |             [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)              |      [✏️](./숫자짝꿍.js)      |       | 23.02.07 |
