@@ -135,6 +135,7 @@
 |            [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)             |        [✏️](./rny.js)        |  ☑️   | 23.04.24 |
 |           [배열 만들기1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)            |    [✏️](./배열만들기1.js)    |  ☑️   | 23.04.24 |
 |        [공백으로 구분하기1](https://school.programmers.co.kr/learn/courses/30/lessons/181869)         |   [✏️](./공백으로구분.js)    |  ☑️   | 23.04.24 |
+|        [공백으로 구분하기2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)         |   [✏️](./공백으로구분2.js)   |  ☑️   | 23.04.25 |
 |            [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899)            |    [✏️](./카운트다운.js)     |  ☑️   | 23.04.24 |
 |         [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)          |   [✏️](./문자열정수합.js)    |  ☑️   | 23.04.25 |
 |         [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929)          |  [✏️](./원소들의곱과합.js)   |  ☑️   | 23.04.25 |
@@ -151,3 +152,8 @@
 |   [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)    |    [✏️](./홀짝에따라.js)     |  ☑️   | 23.04.25 |
 |          [n번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892)           |   [✏️](./n번쨰원소부터.js)   |  ☑️   | 23.04.25 |
 |         [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)         |   [✏️](./n개간격원소들.js)   |  ☑️   | 23.04.25 |
+|            [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841)            |    [✏️](./꼬리문자열.js)     |  ☑️   | 23.04.25 |
+|          [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927)           |   [✏️](./마지막두원소.js)    |  ☑️   | 23.04.25 |
+|            [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)            |    [✏️](./ad제거하기.js)     |  ☑️   | 23.04.25 |
+|        [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864)         |    [✏️](./문자열바꿔.js)     |  ☑️   | 23.04.25 |
+| [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854)  |   [✏️](./배열길이연산.js)    |  ☑️   | 23.04.25 |
