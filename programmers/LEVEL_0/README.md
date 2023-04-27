@@ -102,14 +102,6 @@
 |           [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)           |    [✏️](./저주의숫자3.js)    |  ☑️   | 23.02.04 |
 |           [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)           |   [✏️](./다항식더하기.js)    |       | 23.02.04 |
 |           [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)           |   [✏️](./최빈값구하기.js)    |  ☑️   | 23.02.04 |
-|              [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)               |      [✏️](./OX퀴즈.js)       |  ☑️   | 23.02.04 |
-|          [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)           |   [✏️](./다음에올숫자.js)    |  ☑️   | 23.02.04 |
-|            [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)            |    [✏️](./분수의덧셈.js)     |  ☑️   | 23.02.04 |
-|          [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)           |   [✏️](./연속된수의합.js)    |  ☑️   | 23.02.04 |
-|               [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)                |       [✏️](./평행.js)        |  ☑️   | 23.02.05 |
-|        [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)         |  [✏️](./겹치는선분길이.js)   |       | 23.02.05 |
-|             [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)              |     [✏️](./안전지대.js)      |       | 23.02.05 |
-|             [옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)             |      [✏️](./옹알이1.js)      |  ☑️   | 23.02.05 |
 |             [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937)              |      [✏️](./n의배수.js)      |  ☑️   | 23.04.24 |
 |          [문자열을 정수로](https://school.programmers.co.kr/learn/courses/30/lessons/181848)          |   [✏️](./문자열정수로.js)    |  ☑️   | 23.04.24 |
 |    [문자 리스트를 문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181941)    | [✏️](./문자리스트문자열.js)  |  ☑️   | 23.04.24 |
@@ -157,3 +149,11 @@
 |            [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)            |    [✏️](./ad제거하기.js)     |  ☑️   | 23.04.25 |
 |        [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864)         |    [✏️](./문자열바꿔.js)     |  ☑️   | 23.04.25 |
 | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854)  |   [✏️](./배열길이연산.js)    |  ☑️   | 23.04.25 |
+|              [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)               |      [✏️](./OX퀴즈.js)       |  ☑️   | 23.02.04 |
+|          [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)           |   [✏️](./다음에올숫자.js)    |  ☑️   | 23.02.04 |
+|            [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)            |    [✏️](./분수의덧셈.js)     |  ☑️   | 23.02.04 |
+|          [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)           |   [✏️](./연속된수의합.js)    |  ☑️   | 23.02.04 |
+|               [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)                |       [✏️](./평행.js)        |  ☑️   | 23.02.05 |
+|        [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)         |  [✏️](./겹치는선분길이.js)   |       | 23.02.05 |
+|             [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)              |     [✏️](./안전지대.js)      |       | 23.02.05 |
+|             [옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)             |      [✏️](./옹알이1.js)      |  ☑️   | 23.02.05 |
