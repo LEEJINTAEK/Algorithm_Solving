@@ -149,6 +149,7 @@
 |            [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)            |    [✏️](./ad제거하기.js)     |  ☑️   | 23.04.25 |
 |        [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864)         |    [✏️](./문자열바꿔.js)     |  ☑️   | 23.04.25 |
 | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854)  |   [✏️](./배열길이연산.js)    |  ☑️   | 23.04.25 |
+|           [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856)           |     [✏️](./배열비교.js)      |  ☑️   | 23.04.25 |
 |              [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)               |      [✏️](./OX퀴즈.js)       |  ☑️   | 23.02.04 |
 |          [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)           |   [✏️](./다음에올숫자.js)    |  ☑️   | 23.02.04 |
 |            [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)            |    [✏️](./분수의덧셈.js)     |  ☑️   | 23.02.04 |
