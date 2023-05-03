@@ -160,3 +160,6 @@
 |             [옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)             |      [✏️](./옹알이1.js)      |  ☑️   | 23.02.05 |
 |   [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)   |   [✏️](./등차수열더하.js)    |  ☑️   | 23.04.28 |
 |           [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898)           |      [✏️](./가까운1.js)      |  ☑️   | 23.04.28 |
+|               [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)               |       [✏️](./5명씩.js)       |  ☑️   | 23.04.28 |
+|           [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)           |    [✏️](./문자뒤집기.js)     |  ☑️   | 23.04.28 |
+|             [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904)             |     [✏️](./세로읽기.js)      |  ☑️   | 23.04.28 |
