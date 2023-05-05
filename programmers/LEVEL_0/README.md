@@ -163,3 +163,6 @@
 |               [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)               |       [✏️](./5명씩.js)       |  ☑️   | 23.04.28 |
 |           [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)           |    [✏️](./문자뒤집기.js)     |  ☑️   | 23.04.28 |
 |             [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904)             |     [✏️](./세로읽기.js)      |  ☑️   | 23.04.28 |
+|            [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)             |     [✏️](./1로만들기.js)     |  ☑️   | 23.04.28 |
+|       [빈 배열에 추가, 삭제](https://school.programmers.co.kr/learn/courses/30/lessons/181860)        |     [✏️](./빈배열에.js)      |  ☑️   | 23.04.28 |
+|            [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)            |    [✏️](./글자지우기.js)     |  ☑️   | 23.04.28 |
