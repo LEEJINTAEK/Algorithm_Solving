@@ -152,12 +152,6 @@
 |           [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856)           |     [✏️](./배열비교.js)      |  ☑️   | 23.04.25 |
 |              [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)               |      [✏️](./OX퀴즈.js)       |  ☑️   | 23.02.04 |
 |          [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)           |   [✏️](./다음에올숫자.js)    |  ☑️   | 23.02.04 |
-|            [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)            |    [✏️](./분수의덧셈.js)     |  ☑️   | 23.02.04 |
-|          [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)           |   [✏️](./연속된수의합.js)    |  ☑️   | 23.02.04 |
-|               [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)                |       [✏️](./평행.js)        |  ☑️   | 23.02.05 |
-|        [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)         |  [✏️](./겹치는선분길이.js)   |       | 23.02.05 |
-|             [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)              |     [✏️](./안전지대.js)      |       | 23.02.05 |
-|             [옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)             |      [✏️](./옹알이1.js)      |  ☑️   | 23.02.05 |
 |   [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)   |   [✏️](./등차수열더하.js)    |  ☑️   | 23.04.28 |
 |           [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898)           |      [✏️](./가까운1.js)      |  ☑️   | 23.04.28 |
 |               [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)               |       [✏️](./5명씩.js)       |  ☑️   | 23.04.28 |
@@ -166,3 +160,11 @@
 |            [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)             |     [✏️](./1로만들기.js)     |  ☑️   | 23.04.28 |
 |       [빈 배열에 추가, 삭제](https://school.programmers.co.kr/learn/courses/30/lessons/181860)        |     [✏️](./빈배열에.js)      |  ☑️   | 23.04.28 |
 |            [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)            |    [✏️](./글자지우기.js)     |  ☑️   | 23.04.28 |
+|            [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)            |    [✏️](./조건문자열.js)     |  ☑️   | 23.04.28 |
+|     [문자열이 몇 번 등장하는지](https://school.programmers.co.kr/learn/courses/30/lessons/181871)     |    [✏️](./문자열몇번.js)     |  ☑️   | 23.04.28 |
+|            [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)            |    [✏️](./분수의덧셈.js)     |  ☑️   | 23.02.04 |
+|          [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)           |   [✏️](./연속된수의합.js)    |  ☑️   | 23.02.04 |
+|               [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)                |       [✏️](./평행.js)        |  ☑️   | 23.02.05 |
+|        [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)         |  [✏️](./겹치는선분길이.js)   |       | 23.02.05 |
+|             [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)              |     [✏️](./안전지대.js)      |       | 23.02.05 |
+|             [옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)             |      [✏️](./옹알이1.js)      |  ☑️   | 23.02.05 |
