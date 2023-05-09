@@ -164,6 +164,8 @@
 |     [문자열이 몇 번 등장하는지](https://school.programmers.co.kr/learn/courses/30/lessons/181871)     |    [✏️](./문자열몇번.js)     |  ☑️   | 23.04.28 |
 |            [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855)            |    [✏️](./문자열묶기.js)     |  ☑️   | 23.04.28 |
 |             [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)              |      [✏️](./2의영역.js)      |  ☑️   | 23.04.28 |
+|       [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)        |   [✏️](./특별한이차원1.js)   |  ☑️   | 23.04.28 |
+|       [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831)        |   [✏️](./특별한이차원2.js)   |  ☑️   | 23.04.28 |
 |            [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)            |    [✏️](./분수의덧셈.js)     |  ☑️   | 23.02.04 |
 |          [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)           |   [✏️](./연속된수의합.js)    |  ☑️   | 23.02.04 |
 |               [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)                |       [✏️](./평행.js)        |  ☑️   | 23.02.05 |
