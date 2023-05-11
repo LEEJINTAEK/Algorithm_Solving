@@ -127,7 +127,6 @@
 |                 [주사위 게임1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)                  |    [✏️](./주사위게임1.js)    |  ☑️   | 23.04.24 |
 |           [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843)            |  [✏️](./부분문자열확인.js)   |  ☑️   | 23.04.24 |
 |                  [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)                   |        [✏️](./rny.js)        |  ☑️   | 23.04.24 |
-|                 [배열 만들기1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)                  |    [✏️](./배열만들기1.js)    |  ☑️   | 23.04.24 |
 |              [공백으로 구분하기1](https://school.programmers.co.kr/learn/courses/30/lessons/181869)               |   [✏️](./공백으로구분.js)    |  ☑️   | 23.04.24 |
 |              [공백으로 구분하기2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)               |   [✏️](./공백으로구분2.js)   |  ☑️   | 23.04.25 |
 |                  [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899)                  |    [✏️](./카운트다운.js)     |  ☑️   | 23.04.24 |
@@ -141,6 +140,7 @@
 |                  [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874)                   |     [✏️](./A강조하기.js)     |  ☑️   | 23.04.25 |
 |                [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)                 |   [✏️](./더크게합치기.js)    |  ☑️   | 23.04.25 |
 |                [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)                |     [✏️](./뒤에서5등.js)     |  ☑️   | 23.04.25 |
+|                  [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)                  |    [✏️](./커피심부름.js)     |  ☑️   | 23.04.25 |
 |              [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)              |    [✏️](./접두사인지.js)     |  ☑️   | 23.04.25 |
 |              [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908)              |    [✏️](./접미사인지.js)     |  ☑️   | 23.04.25 |
 |         [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)          |    [✏️](./홀짝에따라.js)     |  ☑️   | 23.04.25 |
@@ -166,7 +166,9 @@
 |           [문자열이 몇 번 등장하는지](https://school.programmers.co.kr/learn/courses/30/lessons/181871)           |    [✏️](./문자열몇번.js)     |  ☑️   | 23.04.28 |
 |                  [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855)                  |    [✏️](./문자열묶기.js)     |  ☑️   | 23.04.28 |
 |              [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919)               |    [✏️](./콜라츠수열.js)     |  ☑️   | 23.04.28 |
+|     [배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857)     |  [✏️](./배열의길이2만큼.js)  |  ☑️   | 23.04.28 |
 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) |   [✏️](./특정문자열로.js)    |  ☑️   | 23.04.28 |
+|              [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)              |  [✏️](./정사각형만들기.js)   |  ☑️   | 23.04.28 |
 |                   [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)                    |      [✏️](./2의영역.js)      |  ☑️   | 23.04.28 |
 |             [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)              |   [✏️](./특별한이차원1.js)   |  ☑️   | 23.04.28 |
 |             [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831)              |   [✏️](./특별한이차원2.js)   |  ☑️   | 23.04.28 |
