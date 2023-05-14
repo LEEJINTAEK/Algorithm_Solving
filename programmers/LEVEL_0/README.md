@@ -179,5 +179,6 @@
 |              [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)               |  [✏️](./겹치는선분길이.js)   |       | 23.02.05 |
 |                   [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)                    |     [✏️](./안전지대.js)      |       | 23.02.05 |
 |                   [옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)                   |      [✏️](./옹알이1.js)      |  ☑️   | 23.02.05 |
-|            [무작위로 k개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)             |     [✏️](./무작위로k.js)     |  ☑️   | 23.02.05 |
-|                   [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)                   |     [✏️](./그림확대.js)      |  ☑️   | 23.02.05 |
+|            [무작위로 k개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)             |     [✏️](./무작위로k.js)     |  ☑️   | 23.05.13 |
+|                   [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)                   |     [✏️](./그림확대.js)      |  ☑️   | 23.05.13 |
+|              [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)              |   [✏️](./전국대회선발.js)    |  ☑️   | 23.05.13 |
