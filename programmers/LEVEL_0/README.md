@@ -183,3 +183,5 @@
 |                   [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)                   |     [✏️](./그림확대.js)      |  ☑️   | 23.05.13 |
 |                 [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)                 |   [✏️](./코드처리하기.js)    |  ☑️   | 23.05.13 |
 |              [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)              |   [✏️](./전국대회선발.js)    |  ☑️   | 23.05.13 |
+|                  [주사위게임3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)                  |    [✏️](./주사위게임3.js)    |  ☑️   | 23.05.13 |
+|                 [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)                 |   [✏️](./배열조각하기.js)    |  ☑️   | 23.05.13 |
