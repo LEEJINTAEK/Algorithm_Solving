@@ -185,3 +185,4 @@
 |              [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)              |   [✏️](./전국대회선발.js)    |  ☑️   | 23.05.13 |
 |                  [주사위게임3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)                  |    [✏️](./주사위게임3.js)    |  ☑️   | 23.05.13 |
 |                 [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)                 |   [✏️](./배열조각하기.js)    |  ☑️   | 23.05.13 |
+|          [정수를 나선형으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)           |    [✏️](./나선형정렬.js)     |  ☑️   | 23.05.13 |
