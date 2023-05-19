@@ -82,4 +82,4 @@
 |         [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)         |    [✏️](./성격유형검사.js)    |       | 23.03.11 |
 |              [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)              |      [✏️](./덧칠하기.js)      |  ☑️   | 23.03.11 |
 |              [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)              |      [✏️](./추억점수.js)      |  ☑️   | 23.04.14 |
-|            [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)             |     [✏️](./달리기경주.js)     |       |          |
+|            [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)             |     [✏️](./달리기경주.js)     |  ⏲️   | 23.05.19 |
