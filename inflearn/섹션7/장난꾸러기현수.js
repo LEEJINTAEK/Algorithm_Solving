@@ -30,10 +30,12 @@
 
 function solution(arr) {
   let answer = [];
-  const arr2 = arr.slice().sort((a, b) => a - b);
-  for (let i = 0; i < arr.length; i++) {
-    if (arr[i] !== arr2[i]) answer.push(i + 1);
-  }
+  const arr1 = arr.slice().sort((a, b) => a - b);
+  arr1.forEach((x, i) => {
+    if (x !== arr[i]) {
+      answer.push(i + 1);
+    }
+  });
   return answer;
 }
 
