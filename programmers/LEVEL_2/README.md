@@ -28,3 +28,4 @@
 |     [n^2배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)      | [✏️](./n^2배열자르기.js)  |  ⏲️   | 23.05.26 |
 |         [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)         |    [✏️](./H-index.js)     |  ⏲️   | 23.05.27 |
 |          [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)           |      [✏️](./카펫.js)      |  ☑️   | 23.05.28 |
+|       [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)       |   [✏️](./행렬의곱셈.js)   |  ⏲️   | 23.05.29 |
