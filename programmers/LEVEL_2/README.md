@@ -29,3 +29,4 @@
 |         [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)         |    [✏️](./H-index.js)     |  ⏲️   | 23.05.27 |
 |          [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)           |      [✏️](./카펫.js)      |  ☑️   | 23.05.28 |
 |       [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)       |   [✏️](./행렬의곱셈.js)   |  ⏲️   | 23.05.29 |
+|       [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)       |   [✏️](./예상대진표.js)   |  ☑️   | 23.06.02 |
