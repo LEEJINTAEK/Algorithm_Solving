@@ -32,3 +32,4 @@
 |        [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)        |   [✏️](./예상대진표.js)    |  ☑️   | 23.06.02 |
 |     [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)      | [✏️](./n개의최소공배수.js) |  ☑️   | 23.06.05 |
 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [✏️](./연속부분수열합.js)  |  ☑️   | 23.06.06 |
+|     [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)      | [✏️](./점프와순간이동.js)  |  ☑️   | 23.06.07 |
