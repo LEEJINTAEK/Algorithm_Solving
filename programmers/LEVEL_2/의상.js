@@ -1,4 +1,4 @@
-function solution(clothes) {
+function solution1(clothes) {
   let map = new Map();
   for (const x of clothes) {
     map.has(x[1]) ? map.set(x[1], map.get(x[1]) + 1) : map.set(x[1], 1);
