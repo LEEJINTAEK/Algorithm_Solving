@@ -1,5 +1,5 @@
 function solution(priorities, location) {
-  let prior = priorities.slice().sort((a, b) => b - a);
+  const prior = priorities.slice().sort((a, b) => b - a);
   let cnt = 1;
   let process = prior.shift();
   while (1) {
