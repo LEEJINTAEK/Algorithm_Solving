@@ -38,3 +38,4 @@
 |        [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)         |    [✏️](./할인행사.js)     |  ☑️   | 23.06.11 |
 |         [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)          |    [✏️](./프로세스.js)     |  ☑️   | 23.06.12 |
 |          [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)           |     [✏️](./피로도.js)      |  ⏲️   | 23.06.13 |
+|           [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)            |      [✏️](./튜플.js)       |  ☑️   | 23.06.14 |
