@@ -1,56 +1,46 @@
-function getMultiSet(str) {
+function getMulti(str) {
   const multiSet = [];
   for (let i = 0; i < str.length - 1; i++) {
-    const pair = str.slice(i, i + 2).toLowerCase();
-    if (/^[a-zA-Z]+$/.test(pair)) {
-      multiSet.push(pair);
+    const el = str.slice(i, i + 2).toLowerCase();
+    if (/^[a-z]+$/.test(el)) {
+      multiSet.push(el);
     }
   }
   return multiSet;
 }
-
 function solution(str1, str2) {
-  const multiSet1 = getMultiSet(str1);
-  const multiSet2 = getMultiSet(str2);
+  const multiSet1 = getMulti(str1);
+  const multiSet2 = getMulti(str2);
+
+  let setMap1 = new Map();
+  let setMap2 = new Map();
 
   if (multiSet1.length === 0 && multiSet2.length === 0) {
-    return 65536; // 공집합일 경우 자카드 유사도는 1로 정의
+    return 65536;
   }
 
-  const set1 = new Map();
-  const set2 = new Map();
+  for (const el of multiSet1) {
+    setMap1.has(el) ? setMap1.set(el, setMap1.get(el) + 1) : setMap1.set(el, 1);
+  }
+  for (const el of multiSet2) {
+    setMap2.has(el) ? setMap2.set(el, setMap2.get(el) + 1) : setMap2.set(el, 1);
+  }
 
-  multiSet1.forEach((element) => {
-    set1.set(element, set1.has(element) ? set1.get(element) + 1 : 1);
-  });
-
-  multiSet2.forEach((element) => {
-    set2.set(element, set2.has(element) ? set2.get(element) + 1 : 1);
-  });
-
-  let intersection = 0;
   let union = 0;
+  let intersection = 0;
 
-  set1.forEach((value, key) => {
-    if (set2.has(key)) {
-      intersection += Math.min(value, set2.get(key));
-      union += Math.max(value, set2.get(key));
-      set2.delete(key);
+  for (const [key, value] of setMap1) {
+    if (setMap2.has(key)) {
+      intersection += Math.min(value, setMap2.get(key));
+      union += Math.max(value, setMap2.get(key));
+      setMap2.delete(key);
     } else {
       union += value;
     }
-  });
-
-  set2.forEach((value) => {
+  }
+  for (const [key, value] of setMap2) {
     union += value;
-  });
+  }
 
-  const similarity = intersection / union;
-  return Math.floor(similarity * 65536);
+  return Math.floor((intersection / union) * 65536);
 }
-
-// 예시 테스트
-const str1 = "FRANCE";
-const str2 = "french";
-const result = solution(str1, str2);
-console.log(result); // 출력: 16384
