@@ -41,3 +41,4 @@
 |            [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)            |        [✏️](./튜플.js)         |  ☑️   | 23.06.14 |
 |    [[1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)    |  [✏️](./1차뉴스클러스터링.js)  |  ⏲️   | 23.06.17 |
 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [✏️](./k진수에서소수구하기.js) |  ☑️   | 23.06.19 |
+|         [[3차]압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)          |       [✏️](./3차압축.js)       |  ☑️   | 23.06.21 |
