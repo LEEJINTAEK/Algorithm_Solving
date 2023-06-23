@@ -1,0 +1,18 @@
+function solution(numbers, target) {
+  let answer = 0;
+
+  function dfs(index, sum) {
+    //순회완료
+    if (index === numbers.length) {
+      if (sum === target) {
+        answer += 1;
+      }
+      return;
+    }
+
+    dfs(index + 1, sum + numbers[index]);
+    dfs(index + 1, sum - numbers[index]);
+  }
+  dfs(0, 0);
+  return answer;
+}
