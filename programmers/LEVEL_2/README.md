@@ -44,3 +44,5 @@
 |         [[3차]압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)          |       [✏️](./3차압축.js)       |  ☑️   | 23.06.21 |
 |      [[3차]n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)       |      [✏️](./n진수게임.js)      |  ☑️   | 23.06.22 |
 |         [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)         |     [✏️](./오픈채팅방.js)      |  ☑️   | 23.06.22 |
+|       [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)       |    [✏️](./주차요금계산.js)     |  ☑️   | 23.06.23 |
+|         [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165#)         |      [✏️](./타겟넘버.js)       |  ⏲️   | 23.06.23 |
