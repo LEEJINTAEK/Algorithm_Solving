@@ -50,3 +50,4 @@
 |          [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)          |      [✏️](./스킬트리.js)       |  ☑️   | 23.06.24 |
 |         [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)          |      [✏️](./방문길이.js)       |  ⏲️   | 23.06.25 |
 |         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)          |      [✏️](./모음사전.js)       |  ⭐   | 23.06.26 |
+|      [[3차]파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)      |     [✏️](./파일명정렬.js)      |  ⏲️   | 23.06.27 |
