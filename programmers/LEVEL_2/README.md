@@ -53,3 +53,4 @@
 |      [[3차]파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)      |     [✏️](./파일명정렬.js)      |  ⏲️   | 23.06.27 |
 |      [게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)      |     [✏️](./게임맵최단.js)      |  ⭐   | 23.06.28 |
 |   [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)    |    [✏️](./뒤에큰수찾기.js)     |  ⏲️   | 23.06.29 |
+|       [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900#)        |       [✏️](./타일링.js)        |  ☑️   | 23.07.01 |
