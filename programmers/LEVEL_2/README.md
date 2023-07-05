@@ -56,3 +56,4 @@
 |       [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900#)        |       [✏️](./타일링.js)        |  ☑️   | 23.07.01 |
 |       [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)       |    [✏️](./숫자변환하기.js)     |  ⭐   | 23.07.02 |
 |    [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)    |   [✏️](./2개이하다른비트.js)   |  ⏲️   | 23.07.04 |
+|      [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)      |   [✏️](./롤케이크자르기.js)    |  ☑️   | 23.07.05 |
