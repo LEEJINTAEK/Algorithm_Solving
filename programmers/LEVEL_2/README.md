@@ -58,3 +58,4 @@
 |    [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)    |   [✏️](./2개이하다른비트.js)   |  ⏲️   | 23.07.04 |
 |      [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)      |   [✏️](./롤케이크자르기.js)    |  ☑️   | 23.07.05 |
 |        [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         |      [✏️](./가장큰수.js)       |  ⏲️   | 23.07.06 |
+|         [소수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         |      [✏️](./소수찾기.js)       |  ⏲️   | 23.07.08 |
