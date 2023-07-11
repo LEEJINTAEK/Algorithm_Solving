@@ -60,4 +60,5 @@
 |        [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         |      [✏️](./가장큰수.js)       |  ⏲️   | 23.07.06 |
 |         [소수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         |      [✏️](./소수찾기.js)       |  ⏲️   | 23.07.08 |
 |     [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     |    [✏️](./다리를지나는.js)     |  ⏲️   | 23.07.09 |
-|   [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |    [✏️](./쿼드압출개수.js)     |  ⏲⭐  | 23.07.10 |
+|   [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |    [✏️](./쿼드압출개수.js)     |  ⭐   | 23.07.10 |
+|        [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)        |     [✏️](./큰수만들기.js)      |   ⏲   | 23.07.11 |
