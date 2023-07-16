@@ -19,9 +19,9 @@
 |       [다음의 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)       |     [✏️](./다음큰숫자.js)      |  ☑️   | 23.03.16 |
 |      [짝 지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)      |   [✏️](./짝지어제거하기.js)    |  ☑️   | 23.03.16 |
 |         [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)          |      [✏️](./멀리뛰기.js)       |  ☑️   | 23.03.18 |
-|          [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)          |      [✏️](./구명보트.js)       |  ☑️   | 23.03.18 |
+|          [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)          |      [✏️](./구명보트.js)       |  ☑️   | 23.07.15 |
 |            [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)            |        [✏️](./캐시.js)         |  ☑️   | 23.03.20 |
-|     [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     |      [✏️](./이진변환.js)       |  ⏲️   | 23.03.23 |
+|     [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     |      [✏️](./이진변환.js)       |  ☑️   | 23.07.16 |
 |       [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)        |    [✏️](./영어끝말잇기.js)     |  ☑️   | 23.05.23 |
 |         [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)         |      [✏️](./귤고르기.js)       |  ☑️   | 23.05.25 |
 |       [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)        |    [✏️](./괄호회전하기.js)     |  ☑️   | 23.05.25 |

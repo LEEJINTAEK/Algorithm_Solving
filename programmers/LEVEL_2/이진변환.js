@@ -1,6 +1,6 @@
 //풀이 1
 function solution(s) {
-  var answer = [0, 0];
+  let answer = [0, 0];
   while (s.length > 1) {
     answer[0]++;
     answer[1] += (s.match(/0/g) || []).length;
