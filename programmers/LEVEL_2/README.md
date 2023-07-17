@@ -25,10 +25,10 @@
 |       [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)        |    [✏️](./영어끝말잇기.js)     |  ☑️   | 23.05.23 |
 |         [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)         |      [✏️](./귤고르기.js)       |  ☑️   | 23.05.25 |
 |       [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)        |    [✏️](./괄호회전하기.js)     |  ☑️   | 23.05.25 |
-|       [n^2배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)       |    [✏️](./n^2배열자르기.js)    |  ⏲️   | 23.05.26 |
-|          [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)           |       [✏️](./H-index.js)       |  ⏲️   | 23.05.27 |
+|       [n^2배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)       |    [✏️](./n^2배열자르기.js)    |  ☑️   | 23.07.16 |
+|          [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)           |       [✏️](./H-index.js)       |  ☑️   | 23.07.27 |
 |            [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)            |        [✏️](./카펫.js)         |  ☑️   | 23.05.28 |
-|        [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)         |     [✏️](./행렬의곱셈.js)      |  ⏲️   | 23.05.29 |
+|        [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)         |     [✏️](./행렬의곱셈.js)      |  ☑️   | 23.07.17 |
 |        [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)         |     [✏️](./예상대진표.js)      |  ☑️   | 23.06.02 |
 |      [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)      |   [✏️](./n개의최소공배수.js)   |  ☑️   | 23.06.05 |
 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)  |   [✏️](./연속부분수열합.js)    |  ☑️   | 23.06.06 |
