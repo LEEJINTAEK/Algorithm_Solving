@@ -63,3 +63,4 @@
 |   [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |    [✏️](./쿼드압출개수.js)     |  ⭐   | 23.07.10 |
 |        [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)        |     [✏️](./큰수만들기.js)      |   ⏲   | 23.07.11 |
 |      [[1차]프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)      |     [✏️](./프렌즈4블록.js)     |  ⭐   | 23.07.13 |
+|         [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)          |      [✏️](./택배상자.js)       |   ⏲   | 23.07.19 |
