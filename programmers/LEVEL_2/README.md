@@ -37,9 +37,9 @@
 |          [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)          |      [✏️](./기능개발.js)       |  ☑️   | 23.06.10 |
 |         [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)         |      [✏️](./할인행사.js)       |  ☑️   | 23.06.11 |
 |          [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)          |      [✏️](./프로세스.js)       |  ☑️   | 23.06.12 |
-|           [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)           |       [✏️](./피로도.js)        |  ⏲️   | 23.06.13 |
+|           [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)           |       [✏️](./피로도.js)        |  ☑️   | 23.07.23 |
 |            [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)            |        [✏️](./튜플.js)         |  ☑️   | 23.06.14 |
-|    [[1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)    |  [✏️](./1차뉴스클러스터링.js)  |  ⏲️   | 23.06.17 |
+|    [[1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)    |  [✏️](./1차뉴스클러스터링.js)  |  ☑️   | 23.07.24 |
 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [✏️](./k진수에서소수구하기.js) |  ☑️   | 23.06.19 |
 |         [[3차]압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)          |       [✏️](./3차압축.js)       |  ☑️   | 23.06.21 |
 |      [[3차]n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)       |      [✏️](./n진수게임.js)      |  ☑️   | 23.06.22 |
