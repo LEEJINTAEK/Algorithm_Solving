@@ -64,3 +64,4 @@
 |        [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)        |     [✏️](./큰수만들기.js)      |   ⏲   | 23.07.11 |
 |      [[1차]프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)      |     [✏️](./프렌즈4블록.js)     |  ⭐   | 23.07.13 |
 |         [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)          |      [✏️](./택배상자.js)       |   ⏲   | 23.07.19 |
+|   [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |   [✏️](./연속된부분수열.js)    |   ⏲   | 23.07.25 |
