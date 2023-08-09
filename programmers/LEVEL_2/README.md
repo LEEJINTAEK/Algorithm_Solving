@@ -67,3 +67,4 @@
 |   [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |   [✏️](./연속된부분수열.js)    |   ⏲   | 23.07.25 |
 |       [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)        |    [✏️](./전화번호목록.js)     |  ☑️   | 23.07.26 |
 |          [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)          |      [✏️](./주식가격.js)       |  ☑️   | 23.08.07 |
+|      [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)       |       [✏️](./124숫자.js)       |  ☑️   | 23.08.09 |
