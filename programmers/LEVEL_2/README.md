@@ -68,3 +68,4 @@
 |       [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)        |    [✏️](./전화번호목록.js)     |  ☑️   | 23.07.26 |
 |          [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)          |      [✏️](./주식가격.js)       |  ☑️   | 23.08.07 |
 |      [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)       |       [✏️](./124숫자.js)       |  ☑️   | 23.08.09 |
+|        [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)         |     [✏️](./메뉴리뉴얼.js)      |  ⭐   | 23.08.10 |
