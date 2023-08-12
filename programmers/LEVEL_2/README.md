@@ -46,7 +46,7 @@
 |         [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)         |     [✏️](./오픈채팅방.js)      |  ☑️   | 23.06.22 |
 |       [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)       |    [✏️](./주차요금계산.js)     |  ☑️   | 23.06.23 |
 |         [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)          |      [✏️](./타겟넘버.js)       |  ☑️   | 23.07.14 |
-|          [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)          |      [✏️](./땅따먹기.js)       |  ⭐   | 23.06.23 |
+|          [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)          |      [✏️](./땅따먹기.js)       |  ☑️   | 23.08.12 |
 |          [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)          |      [✏️](./스킬트리.js)       |  ☑️   | 23.06.24 |
 |         [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)          |      [✏️](./방문길이.js)       |  ⏲️   | 23.06.25 |
 |         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)          |      [✏️](./모음사전.js)       |  ☑️   | 23.07.14 |
