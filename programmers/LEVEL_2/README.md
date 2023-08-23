@@ -70,3 +70,4 @@
 |      [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)       |       [✏️](./124숫자.js)       |  ☑️   | 23.08.09 |
 |        [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)         |     [✏️](./메뉴리뉴얼.js)      |  ⭐   | 23.08.10 |
 |        [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)         |     [✏️](./삼각달팽이.js)      |   ⏲   | 23.08.22 |
+|          [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)           |       [✏️](./더맵게.js)        |  ⭐   | 23.08.23 |
