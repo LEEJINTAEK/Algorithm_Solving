@@ -83,3 +83,4 @@
 |              [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)              |      [✏️](./덧칠하기.js)      |  ☑️   | 23.03.11 |
 |              [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)              |      [✏️](./추억점수.js)      |  ☑️   | 23.04.14 |
 |            [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)             |     [✏️](./달리기경주.js)     |  ⏲️   | 23.05.19 |
+|             [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)              |      [✏️](./공원산책.js)      |  ☑️   | 23.08.26 |
