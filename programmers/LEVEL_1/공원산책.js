@@ -1,4 +1,3 @@
-//오류
 function solution(park, routes) {
   const rowLen = park.length;
   const colLen = park[0].length;
@@ -20,7 +19,8 @@ function solution(park, routes) {
     if (direction === "E") {
       let tmp = colPoint;
       let flag = true;
-      for (let i = 0; i < distance; i++, tmp++) {
+      for (let i = 0; i < distance; i++) {
+        tmp += 1;
         if (tmp >= colLen || park[rowPoint][tmp] === "X") {
           flag = false;
           break;
@@ -33,7 +33,8 @@ function solution(park, routes) {
     if (direction === "S") {
       let tmp = rowPoint;
       let flag = true;
-      for (let i = 0; i < distance; i++, tmp++) {
+      for (let i = 0; i < distance; i++) {
+        tmp += 1;
         if (tmp >= rowLen || park[tmp][colPoint] === "X") {
           flag = false;
           break;
@@ -46,7 +47,8 @@ function solution(park, routes) {
     if (direction === "W") {
       let tmp = colPoint;
       let flag = true;
-      for (let i = 0; i < distance; i++, tmp--) {
+      for (let i = 0; i < distance; i++) {
+        tmp -= 1;
         if (tmp < 0 || park[rowPoint][tmp] === "X") {
           flag = false;
           break;
@@ -59,7 +61,8 @@ function solution(park, routes) {
     if (direction === "N") {
       let tmp = rowPoint;
       let flag = true;
-      for (let i = 0; i < distance; i++, tmp--) {
+      for (let i = 0; i < distance; i++) {
+        tmp -= 1;
         if (tmp < 0 || park[tmp][colPoint] === "X") {
           flag = false;
           break;
