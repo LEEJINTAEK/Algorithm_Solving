@@ -85,3 +85,4 @@
 |            [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)             |     [✏️](./달리기경주.js)     |  ⏲️   | 23.05.19 |
 |             [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)              |      [✏️](./공원산책.js)      |  ☑️   | 23.08.26 |
 |           [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)            |    [✏️](./바탕화면정리.js)    |  ☑️   | 23.08.27 |
+|       [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)       |  [✏️](./개인정보유효기간.js)  |  ☑️   | 23.08.27 |
