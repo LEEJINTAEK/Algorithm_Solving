@@ -71,3 +71,4 @@
 |        [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)         |     [✏️](./메뉴리뉴얼.js)      |  ⭐   | 23.08.10 |
 |        [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)         |     [✏️](./삼각달팽이.js)      |   ⏲   | 23.08.22 |
 |          [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)           |       [✏️](./더맵게.js)        |  ⭐   | 23.08.23 |
+|   [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)    |     [✏️](./두큐합같게.js)      |   ⏲   | 23.08.28 |
