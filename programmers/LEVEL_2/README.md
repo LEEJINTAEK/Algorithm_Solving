@@ -72,3 +72,5 @@
 |        [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)         |     [✏️](./삼각달팽이.js)      |   ⏲   | 23.08.22 |
 |          [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)           |       [✏️](./더맵게.js)        |  ⭐   | 23.08.23 |
 |   [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)    |     [✏️](./두큐합같게.js)      |   ⏲   | 23.08.28 |
+|        [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)        |     [✏️](./무인도여행.js)      |  ⭐   | 23.09.01 |
+|        [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)         |      [✏️](./하노이탑.js)       |  ⭐   | 23.09.02 |
