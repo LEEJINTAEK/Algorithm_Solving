@@ -3,45 +3,31 @@ function solution(dirs) {
   let [x, y] = [0, 0];
 
   const move = (dir) => {
-    // 캐릭터 이동 함수
-    switch (dir) {
-      case "U":
-        if (y < 5) {
-          y += 1;
-        }
-        break;
-      case "D":
-        if (y > -5) {
-          y -= 1;
-        }
-        break;
-      case "R":
-        if (x < 5) {
-          x += 1;
-        }
-        break;
-      case "L":
-        if (x > -5) {
-          x -= 1;
-        }
-        break;
+    if (dir === "U" && y < 5) {
+      y += 1;
+    }
+    if (dir === "D" && y > -5) {
+      y -= 1;
+    }
+    if (dir === "R" && x < 5) {
+      x += 1;
+    }
+    if (dir === "L" && x > -5) {
+      x -= 1;
     }
   };
 
   for (const dir of dirs) {
-    const prevX = x;
-    const prevY = y;
+    const [preX, preY] = [x, y];
     move(dir);
-    const newX = x;
-    const newY = y;
+    const [newX, newY] = [x, y];
 
-    if (prevX === newX && prevY === newY) {
+    if (preX === newX && preY === newY) {
       continue;
     }
-    //경로 추가
-    visited.add(`${prevX},${prevY},${newX},${newY}`);
-    visited.add(`${newX},${newY},${prevX},${prevY}`);
-  }
 
+    visited.add(`${preX},${preY},${newX},${newY}`);
+    visited.add(`${newX},${newY},${preX},${preY}`);
+  }
   return visited.size / 2;
 }
