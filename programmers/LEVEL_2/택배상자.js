@@ -1,31 +1,31 @@
 function solution(order) {
-  let answer = 0;
-  const stack = [];
-  let boxNum = 1;
-  for (const idx of order) {
-    let checker = false;
-    while (true) {
-      // stack이 빈상태일때 갱신
-      if (stack.length === 0) {
-        stack.push(boxNum++);
+  let cnt = 0;
+  const container = [];
+  let box = 1;
+  for (const i of order) {
+    let flag = false;
+    while (1) {
+      if (container.length === 0) {
+        container.push(box);
+        box += 1;
       }
-      // 더 넣어줘야하는 경우 추가적으로 삽입
-      if (idx > stack.at(-1)) {
-        stack.push(boxNum++);
-      }
-      // 원하는 택배를 빼낼수 있는 경우 값들을 갱신
-      else if (idx === stack.at(-1)) {
-        stack.pop();
-        answer++;
-        checker = true;
+
+      if (i > container.at(-1)) {
+        container.push(box);
+        box += 1;
+      } else if (i === container.at(-1)) {
+        cnt += 1;
+        container.pop();
+        flag = true;
         break;
       } else {
         break;
       }
     }
-    if (!checker) {
+    if (!flag) {
       break;
     }
   }
-  return answer;
+
+  return cnt;
 }
