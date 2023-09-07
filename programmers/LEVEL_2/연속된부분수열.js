@@ -1,57 +1,28 @@
-//해결 1
 function solution(sequence, k) {
-  let lp = 0;
-  let rp = 0;
+  let leftPoint = 0;
+  let rightPoint = 0;
+  let minLength = Number.MAX_SAFE_INTEGER;
+  let answerIdx = [];
   let sum = sequence[0];
-  let minLen = Infinity;
-  let result = [];
 
-  while (lp <= rp && rp < sequence.length) {
+  while (leftPoint <= rightPoint && rightPoint < sequence.length) {
     if (sum === k) {
-      if (rp - lp + 1 < minLen) {
-        minLen = rp - lp + 1;
-        result = [lp, rp];
+      if (rightPoint - leftPoint + 1 < minLength) {
+        minLength = rightPoint - leftPoint + 1; //최소 길이 재할당
+        answerIdx = [leftPoint, rightPoint];
       }
-      sum += sequence[++rp];
-    } else if (sum < k) {
-      sum += sequence[++rp];
+      rightPoint += 1;
+      sum += sequence[rightPoint];
     } else {
-      sum -= sequence[lp++];
-    }
-  }
-
-  return result;
-}
-
-//시간초과
-function solution(sequence, k) {
-  let lp = 0;
-  let sum = 0;
-  let tmp1 = [];
-  let answer = new Map();
-  for (let rp = 0; rp < sequence.length; rp++) {
-    sum += sequence[rp];
-    tmp1.push(sequence[rp]);
-    if (sum === k) {
-      answer.set([lp, rp], tmp1.length);
-    }
-    while (sum >= k) {
-      sum -= sequence[lp];
-      lp += 1;
-      tmp1.shift();
-      if (sum === k) {
-        answer.set([lp, rp], tmp1.length);
+      if (sum < k) {
+        rightPoint += 1;
+        sum += sequence[rightPoint];
+      } else {
+        sum -= sequence[leftPoint];
+        leftPoint += 1;
       }
     }
   }
-  let arr = [];
-  for (const el of answer.entries()) {
-    arr.push(el);
-  }
-  return arr.sort((a, b) => {
-    if (a[1] === b[1]) {
-      return;
-    }
-    return a[1] - b[1];
-  })[0][0];
+
+  return answerIdx;
 }
