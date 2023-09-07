@@ -75,3 +75,4 @@
 |        [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)        |     [✏️](./무인도여행.js)      |  ⭐   | 23.09.01 |
 |        [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)         |      [✏️](./하노이탑.js)       |  ⏮️   | 23.09.02 |
 |         [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)         |      [✏️](./호텔대실.js)       |       | 23.09.06 |
+|    [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)    |  [✏️](./전력망둘로나누기.js)   |       | 23.09.07 |
