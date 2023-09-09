@@ -33,7 +33,7 @@
 |      [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)      |   [✏️](./n개의최소공배수.js)   |  ☑️   | 23.06.05 |
 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)  |   [✏️](./연속부분수열합.js)    |  ☑️   | 23.06.06 |
 |      [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)      |   [✏️](./점프와순간이동.js)    |  ☑️   | 23.06.07 |
-|            [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            |        [✏️](./의상.js)         |  ☑️   | 23.06.08 |
+|            [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            |        [✏️](./의상.js)         |  ⏮️   | 23.09.09 |
 |          [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)          |      [✏️](./기능개발.js)       |  ☑️   | 23.06.10 |
 |         [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)         |      [✏️](./할인행사.js)       |  ☑️   | 23.06.11 |
 |          [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)          |      [✏️](./프로세스.js)       |  ☑️   | 23.06.12 |
