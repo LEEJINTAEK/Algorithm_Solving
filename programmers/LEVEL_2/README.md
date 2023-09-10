@@ -57,7 +57,7 @@
 |       [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)       |    [✏️](./숫자변환하기.js)     |  ⭐   | 23.07.02 |
 |    [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)    |   [✏️](./2개이하다른비트.js)   |  ⏲️   | 23.07.04 |
 |      [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)      |   [✏️](./롤케이크자르기.js)    |  ☑️   | 23.07.05 |
-|        [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         |      [✏️](./가장큰수.js)       |  ⏲️   | 23.07.06 |
+|        [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         |      [✏️](./가장큰수.js)       |  ⏮️   | 23.07.06 |
 |         [소수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         |      [✏️](./소수찾기.js)       |  ⏲️   | 23.07.08 |
 |     [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     |    [✏️](./다리를지나는.js)     |  ⏲️   | 23.07.09 |
 |   [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |    [✏️](./쿼드압출개수.js)     |  ⭐   | 23.07.10 |
