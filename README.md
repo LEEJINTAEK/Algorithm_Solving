@@ -10,7 +10,7 @@
 
 - **😋 하루에 1문제!!**
 
-- **⏲ 문제당 15분!!**
+- **⏲ 시간 제한!!**
 
 <br />
 <br />
@@ -20,6 +20,7 @@
 👉 [Level\_ 0](./programmers/LEVEL_0/README.md) <br />
 👉 [Level\_ 1](./programmers/LEVEL_1/README.md) <br />
 👉 [Level\_ 2](./programmers/LEVEL_2/README.md) <br />
+👉 [Level\_ 3](./programmers/LEVEL_3/README.md) <br />
 
 <br />
 
