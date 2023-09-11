@@ -1,35 +1,31 @@
 //bfs
+
 function solutionBFS(maps) {
-  const n = maps.length;
-  const m = maps[0].length;
-
-  const dx = [1, 0, -1, 0];
-  const dy = [0, 1, 0, -1];
-
-  let answer = -1;
-
+  const [yLen, xLen] = [maps.length, maps[0].length];
+  const [yGoal, xGoal] = [yLen - 1, xLen - 1];
   const queue = [[0, 0, 1]];
 
-  while (queue.length > 0) {
-    const [x, y, cnt] = queue.shift();
+  while (queue.length) {
+    const [y, x, step] = queue.shift();
 
-    if (x === n - 1 && y === m - 1) {
-      answer = cnt;
-      break;
+    if (y < 0 || y >= yLen || x < 0 || x >= xLen || maps[y][x] === 0) {
+      continue;
     }
 
-    for (let i = 0; i < 4; i++) {
-      const nx = x + dx[i];
-      const ny = y + dy[i];
-
-      if (nx >= 0 && nx < n && ny >= 0 && ny < m && maps[nx][ny] === 1) {
-        queue.push([nx, ny, cnt + 1]);
-        maps[nx][ny] = 0;
-      }
+    //먼저 도달
+    if (y === yGoal && x === xGoal) {
+      return step;
     }
+
+    //step
+    maps[y][x] = 0;
+
+    queue.push([y + 1, x, step + 1]);
+    queue.push([y, x + 1, step + 1]);
+    queue.push([y - 1, x, step + 1]);
+    queue.push([y, x - 1, step + 1]);
   }
-
-  return answer;
+  return -1;
 }
 
 //dfs 실행시간 초과!!
