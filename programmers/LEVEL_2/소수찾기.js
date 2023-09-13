@@ -7,6 +7,7 @@ function isPrime(n) {
       return false;
     }
   }
+
   return true;
 }
 
@@ -14,27 +15,24 @@ function solution(numbers) {
   const answer = new Set();
   const visited = Array(numbers.length).fill(false);
 
-  function combi(str, cur, i) {
-    const n = Number(cur);
-    if (isPrime(n)) {
-      answer.add(n);
+  function dfs(cur, idx) {
+    const num = Number(cur);
+    if (isPrime(num)) {
+      answer.add(num);
     }
-
-    if (i === str.length) {
+    if (idx === numbers.length) {
       return;
     }
-
-    for (let j = 0; j < str.length; j++) {
-      if (!visited[j]) {
-        visited[j] = true;
-        combi(str, cur + str[j], i + 1);
-        combi(str, str[j] + cur, i + 1);
-        visited[j] = false;
+    for (let i = 0; i < numbers.length; i++) {
+      if (!visited[i]) {
+        visited[i] = true;
+        dfs(cur + numbers[i], idx + 1);
+        dfs(numbers[i] + cur, idx + 1);
+        visited[i] = false;
       }
     }
   }
-
-  combi(numbers, "", 0);
+  dfs("", 0);
 
   return answer.size;
 }
