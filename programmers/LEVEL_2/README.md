@@ -49,7 +49,7 @@
 |          [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)          |      [✏️](./땅따먹기.js)       |  ⏮️   | 23.08.12 |
 |          [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)          |      [✏️](./스킬트리.js)       |  ☑️   | 23.06.24 |
 |         [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)          |      [✏️](./방문길이.js)       |  ⏮️   | 23.09.03 |
-|         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)          |      [✏️](./모음사전.js)       |  ⏮️   | 23.07.14 |
+|         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)          |      [✏️](./모음사전.js)       |  ⏮️   | 23.09.16 |
 |      [[3차]파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)      |     [✏️](./파일명정렬.js)      |  ⏲️   | 23.06.27 |
 |      [게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)      |     [✏️](./게임맵최단.js)      |  ⏮️   | 23.09.11 |
 |   [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)    |    [✏️](./뒤에큰수찾기.js)     |  ⏲️   | 23.06.29 |
@@ -74,5 +74,5 @@
 |   [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)    |     [✏️](./두큐합같게.js)      |   ⏲   | 23.08.28 |
 |        [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)        |     [✏️](./무인도여행.js)      |  ⭐   | 23.09.01 |
 |        [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)         |      [✏️](./하노이탑.js)       |  ⏮️   | 23.09.02 |
-|         [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)         |      [✏️](./호텔대실.js)       |       | 23.09.06 |
-|    [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)    |  [✏️](./전력망둘로나누기.js)   |       | 23.09.07 |
+|         [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)         |      [✏️](./호텔대실.js)       |  ⭐   | 23.09.06 |
+|    [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)    |  [✏️](./전력망둘로나누기.js)   |  ⏮️   | 23.09.16 |
