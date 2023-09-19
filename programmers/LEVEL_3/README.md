@@ -15,3 +15,4 @@
 |   [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)    |    [✏️](./단어변환.js)    |  ⏲️   | 23.09.12 |
 | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [✏️](./이중우선순위큐.js) |  ☑️   | 23.09.18 |
 |  [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)   |   [✏️](./정수삼각형.js)   |  ⏲️   | 23.09.19 |
+|  [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)   |   [✏️](./최고의집합.js)   |  ⏲️   | 23.09.20 |
