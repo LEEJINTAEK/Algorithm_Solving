@@ -17,3 +17,4 @@
 |  [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)   |   [✏️](./정수삼각형.js)   |  ⏲️   | 23.09.19 |
 |  [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)   |   [✏️](./최고의집합.js)   |  ⏲️   | 23.09.20 |
 |   [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)    |    [✏️](./숫자게임.js)    |  ☑️   | 23.09.21 |
+|     [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)     |     [✏️](./등굣길.js)     |  ⏲️   | 23.09.23 |
