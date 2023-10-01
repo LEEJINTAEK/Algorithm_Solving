@@ -1,9 +1,11 @@
 function solution(lines) {
-  let line = new Array(200).fill(0);
+  const line = Array(200).fill(0);
 
-  lines.forEach(([a, b]) => {
-    for (; a < b; a++) line[a + 100]++;
-  });
+  for (const [s, e] of lines) {
+    for (let i = s + 100; i < e + 100; i++) {
+      line[i] += 1;
+    }
+  }
 
-  return line.reduce((a, c) => (c > 1 ? a + 1 : a), 0);
+  return line.filter((n) => n > 1).length;
 }
