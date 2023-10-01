@@ -176,8 +176,8 @@
 |                  [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)                  |    [✏️](./분수의덧셈.js)     |  ☑️   | 23.02.04 |
 |                [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)                 |   [✏️](./연속된수의합.js)    |  ☑️   | 23.02.04 |
 |                     [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)                      |       [✏️](./평행.js)        |  ☑️   | 23.02.05 |
-|              [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)               |  [✏️](./겹치는선분길이.js)   |       | 23.02.05 |
-|                   [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)                    |     [✏️](./안전지대.js)      |       | 23.02.05 |
+|              [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)               |  [✏️](./겹치는선분길이.js)   |  ☑️   | 23.02.05 |
+|                   [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)                    |     [✏️](./안전지대.js)      |  ☑️   | 23.02.05 |
 |                   [옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)                   |      [✏️](./옹알이1.js)      |  ☑️   | 23.02.05 |
 |            [무작위로 k개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)             |     [✏️](./무작위로k.js)     |  ☑️   | 23.05.13 |
 |                   [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)                   |     [✏️](./그림확대.js)      |  ☑️   | 23.05.13 |
