@@ -19,3 +19,4 @@
 |   [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)    |    [✏️](./숫자게임.js)    |  ☑️   | 23.09.21 |
 |     [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)     |     [✏️](./등굣길.js)     |  ⏮️   | 23.09.23 |
 |   [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)    |    [✏️](./야근지수.js)    |  ⭐   | 23.09.25 |
+|   [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)   |   [✏️](./단속카메라.js)   |  ☑️   | 23.10.02 |
