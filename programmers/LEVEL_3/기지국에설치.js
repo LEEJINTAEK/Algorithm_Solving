@@ -1,28 +1,16 @@
 function solution(n, stations, w) {
-  const coverage = 2 * w + 1; // 기지국이 커버하는 범위
-  let answer = 0;
-  let position = 1; // 아파트의 위치
-
+  let startIdx = 0;
+  let cnt = 0; //정답 갯수
   for (const station of stations) {
-    const leftCoverage = station - w - position; //커버 범위 전 왼쪽
-
-    if (leftCoverage > 0) {
-      // 왼쪽 아파트에 기지국 설치가 필요한 경우
-      answer += Math.ceil(leftCoverage / coverage);
-    }
-
-    position = station + w + 1; // 다음 아파트 위치 설정
+    const startCoverage = station - w - 1; //기지국 범위 첫 아파트 인덱스
+    cnt += Math.ceil((startCoverage - startIdx) / (w * 2 + 1)); //설치 필요 갯수 추가
+    startIdx = station + w; // 다음 시작 인덱스
   }
+  //아파트가 남았을 때
+  cnt += Math.ceil((n - startIdx) / (w * 2 + 1));
 
-  if (position <= n) {
-    // 남은 아파트가 있는 경우
-    const remainingCoverage = n - position + 1;
-    answer += Math.ceil(remainingCoverage / coverage);
-  }
-
-  return answer;
+  return cnt;
 }
-
 //실행시간 초과
 function timeOut(n, stations, w) {
   const apartments = Array(n).fill(false);
