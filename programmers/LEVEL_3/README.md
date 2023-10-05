@@ -22,3 +22,4 @@
 |   [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)    |   [✏️](./단속카메라.js)   |  ☑️   | 23.10.02 |
 |   [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)   |  [✏️](./기지국에설치.js)  |  ⏲️   | 23.10.03 |
 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | [✏️](./징검다리건너기.js) |  ⏲️   | 23.10.04 |
+|  [스티커 모으기](https://school.programmers.co.kr/learn/courses/30/lessons/12971)  |  [✏️](./스티커모으기.js)  |  ⏲️   | 23.10.05 |
