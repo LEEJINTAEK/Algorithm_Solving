@@ -24,3 +24,4 @@
 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | [✏️](./징검다리건너기.js) |  ⏲️   | 23.10.04 |
 |  [스티커 모으기](https://school.programmers.co.kr/learn/courses/30/lessons/12971)  |  [✏️](./스티커모으기.js)  |  ⏲️   | 23.10.05 |
 |   [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)   |   [✏️](./불량사용자.js)   |  ⭐   | 23.10.06 |
+|    [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)    |    [✏️](./보석쇼핑.js)    |  ⏲️   | 23.10.07 |
