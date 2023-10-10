@@ -79,3 +79,4 @@
 |       [[3차]방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)        |     [✏️](./3차방금그곡.js)     |  ☑️   | 23.09.17 |
 |        [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)        |     [✏️](./줄서는방법.js)      |  ⭐   | 23.10.08 |
 |     [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)     |  [✏️](./마법의엘리베이터.js)   |  ⭐   | 23.10.09 |
+|     [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)      |   [✏️](./숫자카드나누기.js)    |  ☑️   | 23.10.10 |
