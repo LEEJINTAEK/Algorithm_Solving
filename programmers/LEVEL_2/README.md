@@ -52,15 +52,15 @@
 |         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)          |      [✏️](./모음사전.js)       |  ⏮️   | 23.09.16 |
 |      [[3차]파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)      |     [✏️](./파일명정렬.js)      |  ⏲️   | 23.06.27 |
 |      [게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)      |     [✏️](./게임맵최단.js)      |  ⏮️   | 23.09.11 |
-|   [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)    |    [✏️](./뒤에큰수찾기.js)     |  ⏲️   | 23.06.29 |
+|   [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)    |    [✏️](./뒤에큰수찾기.js)     |  ⏮️   | 23.10.12 |
 |       [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900#)        |       [✏️](./타일링.js)        |  ☑️   | 23.07.01 |
-|       [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)       |    [✏️](./숫자변환하기.js)     |  ⭐   | 23.07.02 |
-|    [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)    |   [✏️](./2개이하다른비트.js)   |  ⏲️   | 23.07.04 |
+|       [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)       |    [✏️](./숫자변환하기.js)     |  ⏮️   | 23.10.12 |
+|    [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)    |   [✏️](./2개이하다른비트.js)   |  ⏮️   | 23.10.12 |
 |      [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)      |   [✏️](./롤케이크자르기.js)    |  ☑️   | 23.07.05 |
 |        [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         |      [✏️](./가장큰수.js)       |  ⏮️   | 23.07.06 |
 |         [소수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         |      [✏️](./소수찾기.js)       |  ⏮️   | 23.09.13 |
-|     [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     |    [✏️](./다리를지나는.js)     |  ⏲️   | 23.07.09 |
-|   [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |    [✏️](./쿼드압출개수.js)     |  ⭐   | 23.07.10 |
+|     [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     |    [✏️](./다리를지나는.js)     |  ⏮️   | 23.07.09 |
+|   [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |    [✏️](./쿼드압출개수.js)     |  ⏮️   | 23.07.10 |
 |        [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)        |     [✏️](./큰수만들기.js)      |   ⏲   | 23.07.11 |
 |      [[1차]프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)      |     [✏️](./프렌즈4블록.js)     |  ⭐   | 23.07.13 |
 |         [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)          |      [✏️](./택배상자.js)       |  ⏮️   | 23.09.03 |

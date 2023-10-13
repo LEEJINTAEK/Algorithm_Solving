@@ -1,3 +1,38 @@
+function solution(x, y, n) {
+  let test = [x];
+  let cnt = 0;
+  if (x === y) {
+    return 0;
+  }
+
+  while (1) {
+    const set = new Set();
+    cnt += 1;
+
+    test.forEach((val) => {
+      if (val + n <= y) {
+        set.add(val + n);
+      }
+      if (val * 2 <= y) {
+        set.add(val * 2);
+      }
+      if (val * 3 <= y) {
+        set.add(val * 3);
+      }
+    });
+
+    if (set.size === 0) {
+      return -1;
+    }
+
+    if (set.has(y)) {
+      return cnt;
+    }
+
+    test = [...set];
+  }
+}
+
 //BFS
 function solution1(x, y, n) {
   if (x === y) {
