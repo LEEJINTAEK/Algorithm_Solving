@@ -81,3 +81,4 @@
 |     [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)     |  [✏️](./마법의엘리베이터.js)   |  ⭐   | 23.10.09 |
 |     [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)      |   [✏️](./숫자카드나누기.js)    |  ☑️   | 23.10.10 |
 |         [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)         |      [✏️](./시소짝궁.js)       |  ⏲️   | 23.10.11 |
+|   [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)    |   [✏️](./가장큰정사각형.js)    |  ⏲️   | 23.10.16 |
