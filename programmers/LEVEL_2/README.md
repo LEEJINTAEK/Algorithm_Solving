@@ -84,3 +84,4 @@
 |   [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)    |   [✏️](./가장큰정사각형.js)    |  ⏲️   | 23.10.16 |
 |          [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)          |       [✏️](./점찍기.js)        |  ☑️   | 23.10.18 |
 |     [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)      |   [✏️](./테이블해시함수.js)    |  ☑️   | 23.10.19 |
+|       [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)        |    [✏️](./멀쩡한삼각형.js)     |  ⏲️   | 23.11.22 |
