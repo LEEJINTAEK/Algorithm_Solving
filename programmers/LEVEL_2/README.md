@@ -86,3 +86,4 @@
 |     [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)      |   [✏️](./테이블해시함수.js)    |  ☑️   | 23.10.19 |
 |       [멀쩡한 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)        |    [✏️](./멀쩡한삼각형.js)     |  ⏲️   | 23.11.22 |
 |    [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)    | [✏️](./행렬테두리회전하기.js)  |  ☑️   | 23.11.23 |
+|         [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)         |      [✏️](./미로탈출.js)       |  ⏲️   | 23.11.24 |
