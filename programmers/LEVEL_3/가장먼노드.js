@@ -1,7 +1,7 @@
 function solution(n, edge) {
   let answer = 0;
-  let check = Array(n + 1).fill(-1);
-  let adj = Array.from({ length: n + 1 }, () => Array());
+  const check = Array(n + 1).fill(-1);
+  const adj = Array.from({ length: n + 1 }, () => Array());
 
   for (let i = 0; i < edge.length; i++) {
     adj[edge[i][0]].push(edge[i][1]);
@@ -9,13 +9,13 @@ function solution(n, edge) {
   }
 
   check[1] = 0;
-  let queue = [1];
+  const queue = [1];
 
   while (queue.length) {
-    let node = queue.shift();
+    const node = queue.shift();
 
     for (let i = 0; i < adj[node].length; i++) {
-      let next = adj[node][i];
+      const next = adj[node][i];
       if (check[next] === -1) {
         check[next] = check[node] + 1;
         queue.push(next);
@@ -23,9 +23,11 @@ function solution(n, edge) {
     }
   }
 
-  let max = Math.max(...check);
-  for (let i = 0; i < check.length; i++) {
-    if (max === check[i]) answer++;
+  const max = Math.max(...check);
+  for (const n of check) {
+    if (max === n) {
+      answer += 1;
+    }
   }
 
   return answer;
