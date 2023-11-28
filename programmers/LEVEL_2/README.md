@@ -88,3 +88,4 @@
 |    [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)    | [✏️](./행렬테두리회전하기.js)  |  ☑️   | 23.11.23 |
 |         [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)         |      [✏️](./미로탈출.js)       |  ⏲️   | 23.11.24 |
 |       [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)       |    [✏️](./과제진행하기.js)     |  ⏲️   | 23.11.26 |
+|            [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)            |        [✏️](./배달.js)         |  ⭐   | 23.11.28 |
