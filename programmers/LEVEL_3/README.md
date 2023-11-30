@@ -26,4 +26,5 @@
 |   [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)   |   [✏️](./불량사용자.js)   |  ⭐   | 23.10.06 |
 |    [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)    |    [✏️](./보석쇼핑.js)    |  ⏲️   | 23.10.07 |
 |   [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)    |   [✏️](./N으로표현.js)    |   ⏲   | 23.10.17 |
-|  [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)   |   [✏️](./가장먼노드.js)   |   ⏲   | 23.10.27 |
+|  [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)   |   [✏️](./가장먼노드.js)   |   ⏲   | 23.11.27 |
+|      [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)       |      [✏️](./순위.js)      |   ⏲   | 23.11.30 |
