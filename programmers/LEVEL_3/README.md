@@ -29,3 +29,4 @@
 |  [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)   |   [✏️](./가장먼노드.js)   |   ⏲   | 23.11.27 |
 |      [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)       |      [✏️](./순위.js)      |   ⏲   | 23.11.30 |
 |   [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)   |   [✏️](./섬연결하기.js)   |   ⏲   | 23.12.02 |
+|    [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)     |    [✏️](./여행경로.js)    |   ⏲   | 23.12.03 |
