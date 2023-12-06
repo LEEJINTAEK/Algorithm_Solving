@@ -31,3 +31,4 @@
 |   [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)    |   [✏️](./섬연결하기.js)   |   ⏲   | 23.12.02 |
 |     [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)     |    [✏️](./여행경로.js)    |   ⏲   | 23.12.03 |
 | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | [✏️](./가장긴팰린드롬.js) |  ☑️   | 23.12.06 |
+|     [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)     |    [✏️](./입국심사.js)    |   ⏲   | 23.12.06 |
