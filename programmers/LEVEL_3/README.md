@@ -33,3 +33,4 @@
 |     [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)      |  [✏️](./가장긴팰린드롬.js)  |  ☑️   | 23.12.06 |
 |         [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)          |     [✏️](./입국심사.js)     |   ⏲   | 23.12.06 |
 | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | [✏️](./연속펄스부분수열.js) |  ☑️   | 23.12.07 |
+|         [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)          |     [✏️](./거스름돈.js)     |  ⏲️   | 23.12.09 |
