@@ -1,27 +1,29 @@
 function solution(scores) {
-  const len = scores.length;
-  let rank = new Array(len).fill(1);
-  let sum = scores.map((arr) => arr[0] + arr[1]);
+  let rank = 1;
 
-  for (let i = 0; i < len; i++) {
-    for (let j = 0; j < len; j++) {
-      if (i === j) continue;
-      if (scores[i][0] < scores[j][0] && scores[i][1] < scores[j][1]) {
-        rank[i] = -1;
-        break;
+  const check = (arr) => {
+    for (let i = 0; i < scores.length; i++) {
+      if (scores[i][0] > arr[0] && scores[i][1] > arr[1]) {
+        return false;
+      }
+    }
+
+    return true;
+  };
+
+  for (let i = 0; i < scores.length; i++) {
+    if (scores[i][0] + scores[i][1] > scores[0][0] + scores[0][1]) {
+      if (check(scores[i])) {
+        rank += 1;
       }
     }
   }
 
-  let sorted = sum
-    .map((val, idx) => ({ val, idx }))
-    .filter((obj) => rank[obj.idx] !== -1)
-    .sort((a, b) => b.val - a.val);
-  let ranking = 1;
-  for (let i = 0; i < sorted.length; i++) {
-    if (i > 0 && sorted[i].val !== sorted[i - 1].val) ranking = i + 1;
-    if (sorted[i].idx === 0) return ranking;
+  for (let i = 0; i < scores.length; i++) {
+    if (scores[i][0] > scores[0][0] && scores[i][1] > scores[0][1]) {
+      return -1;
+    }
   }
 
-  return -1;
+  return rank;
 }
