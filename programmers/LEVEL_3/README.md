@@ -35,3 +35,4 @@
 | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | [✏️](./연속펄스부분수열.js) |  ☑️   | 23.12.07 |
 |         [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)          |     [✏️](./거스름돈.js)     |  ⏮️   | 23.12.09 |
 |         [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)         |     [✏️](./부대복귀.js)     |  ⏮️   | 23.12.10 |
+|         [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)         |     [✏️](./인사고가.js)     |  ⏲️   | 23.12.10 |
