@@ -93,3 +93,4 @@
 |        [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)         |     [✏️](./문자열압축.js)      |  ☑️   | 23.12.17 |
 |   [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)    |   [✏️](./두원사이의정수.js)    |  ⏲️   | 23.12.19 |
 |           [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           |       [✏️](./후보키.js)        |  ⭐   | 23.12.20 |
+|          [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)          |      [✏️](./조이스틱.js)       |  ⭐   | 23.12.21 |
