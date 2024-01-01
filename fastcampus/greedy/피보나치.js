@@ -1,5 +1,5 @@
 const fs = require("fs");
-const input = fs.readFileSync("/dev/stdin").toString().split("\n");
+const input = fs.readFileSync("/dev/stdin").toString().split("\n").map(Number);
 
 const pibo = [0, 1];
 while (pibo[pibo.length - 1] < 1e9) {
@@ -7,7 +7,7 @@ while (pibo[pibo.length - 1] < 1e9) {
 }
 
 for (let tc = 1; tc <= input[0]; tc++) {
-  const num = Number(input[tc]);
+  let num = input[tc];
   let i = pibo.length - 1;
   const answer = [];
   while (num > 0) {
