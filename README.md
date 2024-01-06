@@ -51,7 +51,7 @@
 
 ## BEAKJOON
 
-👉 [알고리즘 문제 모음](./fastcapus) <br />
+👉 [백준 알고리즘 문제 모음](./fastcampus/README.md) <br />
 
 > [BARKJOON 바로 가기 😄](https://www.acmicpc.net/)
 
