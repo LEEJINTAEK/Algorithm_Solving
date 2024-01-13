@@ -1,7 +1,6 @@
-// const fs = require("fs");
-// const input = fs.readFileSync("/dev/stdin").toString().split("\n");
+const fs = require("fs");
+const input = fs.readFileSync("/dev/stdin").toString().split("\n");
 
-const input = ["4 11", "802", "743", "457", "539"];
 const [k, n] = input[0].split(" ").map(Number);
 const arr = [];
 for (let i = 1; i <= k; i++) {
