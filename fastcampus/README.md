@@ -61,5 +61,5 @@
 |      [예산](https://www.acmicpc.net/problem/2512)      |     [✏️](./예산.js)     |  ☑️   | 24.01.10 |
 |  [나무 자르기](https://www.acmicpc.net/problem/2805)   |  [✏️](./나무자르기.js)  |  ☑️   | 24.01.11 |
 |  [랜선 자르기](https://www.acmicpc.net/problem/1654)   |  [✏️](./랜선자르기.js)  |  ☑️   | 24.01.11 |
-|  [숫자 카드2](https://www.acmicpc.net/problem/10816)   |  [✏️](./숫자카드2.js)   |  ⭐   | 24.01.13 |
-| [병사 배치하기](https://www.acmicpc.net/problem/18353) | [✏️](./병사배치하기.js) |  ⭐   | 24.01.13 |
+|  [숫자 카드2](https://www.acmicpc.net/problem/10816)   |  [✏️](./숫자카드2.js)   |  ⏪   | 24.01.13 |
+| [병사 배치하기](https://www.acmicpc.net/problem/18353) | [✏️](./병사배치하기.js) |  ⏪   | 24.01.13 |
