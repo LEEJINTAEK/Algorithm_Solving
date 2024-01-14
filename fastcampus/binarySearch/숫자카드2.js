@@ -46,10 +46,6 @@ for (let i = 0; i < m; i++) {
 
 console.log(answer.join(" "));
 
-//
-//
-//
-//
 //시간초과
 
 // const check = {};
