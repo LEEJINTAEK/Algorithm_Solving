@@ -63,3 +63,4 @@
 |  [랜선 자르기](https://www.acmicpc.net/problem/1654)   |  [✏️](./랜선자르기.js)  |  ☑️   | 24.01.11 |
 |  [숫자 카드2](https://www.acmicpc.net/problem/10816)   |  [✏️](./숫자카드2.js)   |  ⏪   | 24.01.13 |
 | [병사 배치하기](https://www.acmicpc.net/problem/18353) | [✏️](./병사배치하기.js) |  ⏪   | 24.01.13 |
+|    [K번째 수](https://www.acmicpc.net/problem/1300)    |   [✏️](./k번째수.js)    |  ⭐   | 24.01.14 |
