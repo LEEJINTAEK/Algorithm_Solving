@@ -1,21 +1,19 @@
 function solution(n, times) {
-  times.sort((a, b) => a - b);
-  let [left, right] = [1, times[times.length - 1] * n];
-
-  while (left <= right) {
-    const mid = Math.floor((left + right) / 2);
+  let [start, end] = [1, times[times.length - 1] * n];
+  let result = 0;
+  while (start <= end) {
+    const mid = parseInt((start + end) / 2);
     let possible = 0;
-
     for (const time of times) {
       possible += Math.floor(mid / time);
     }
-
     if (possible >= n) {
-      right = mid - 1;
+      result = mid;
+      end = mid - 1;
     } else {
-      left = mid + 1;
+      start = mid + 1;
     }
   }
 
-  return left;
+  return result;
 }
