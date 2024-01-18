@@ -1,6 +1,6 @@
 const fs = require("fs");
 const input = fs.readFileSync("/dev/stdin").toString().split("\n");
-// const input = ["3", "7"];
+//const input = ["3", "7"];
 const [n, k] = [input[0], input[1]].map(Number);
 
 let [start, end] = [1, 10 ** 10];
@@ -23,11 +23,12 @@ while (start <= end) {
 
 console.log(result);
 
-// //메모리 초과
+// // //메모리 초과
 
 // const arr = Array.from({ length: n }, (_, i) =>
 //   Array.from({ length: n }, (_, j) => (i + 1) * (j + 1))
 // );
+// arr
 // const answer = arr.flat(1);
 // answer.sort((a, b) => a - b);
 
