@@ -86,3 +86,4 @@
 |  [N-Queen](https://www.acmicpc.net/problem/9663)   | [✏️](./백트래킹/n-queen.js)  |  ☑️   | 24.01.18 |
 |   [N과 M](https://www.acmicpc.net/problem/15649)   |   [✏️](./백트래킹/n과m.js)   |  ☑️   | 24.01.19 |
 | [모든 순열](https://www.acmicpc.net/problem/10974) | [✏️](./백트래킹/모든순열.js) |  ☑️   | 24.01.21 |
+|  [0 만들기](https://www.acmicpc.net/problem/7490)  | [✏️](./백트래킹/0만들기.js)  |  ☑️   | 24.01.23 |
