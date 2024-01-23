@@ -1,17 +1,25 @@
 function solution(n, lost, reserve) {
-  const realReserve = reserve.filter((r) => !lost.includes(r));
-  const realLost = lost.filter((r) => !reserve.includes(r));
+  let students = Array.from({ length: n }, () => 1);
 
-  // const reserveNum = reserve.lenght - realReserve.length;
+  for (let l of lost) {
+    students[l - 1] -= 1;
+  }
+  for (let r of reserve) {
+    students[r - 1] += 1;
+  }
 
-  const ableNum = realLost.filter((a) => {
-    return realReserve.find((b, i) => {
-      const has = b === a - 1 || b === a + 1;
-      if (has) {
-        delete realReserve[i];
+  for (let i = 0; i < n; i++) {
+    if (students[i] === 0) {
+      if (students[i - 1] === 2) {
+        students[i - 1] -= 1;
+        students[i] += 1;
+        continue;
       }
-      return has;
-    });
-  }).length;
-  return n - (realLost.length - ableNum);
+      if (students[i + 1] === 2) {
+        students[i + 1] -= 1;
+        students[i] += 1;
+      }
+    }
+  }
+  return students.filter((s) => s > 0).length;
 }
