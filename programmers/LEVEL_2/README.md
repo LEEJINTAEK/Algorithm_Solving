@@ -61,7 +61,7 @@
 |         [소수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         |      [✏️](./소수찾기.js)       |  ⏮️   | 23.09.13 |
 |     [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     |    [✏️](./다리를지나는.js)     |  ⏮️   | 23.07.09 |
 |   [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |    [✏️](./쿼드압출개수.js)     |  ⏮️   | 23.07.10 |
-|        [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)        |     [✏️](./큰수만들기.js)      |   ⏲   | 23.07.11 |
+|        [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)        |     [✏️](./큰수만들기.js)      |  ⏮️   | 24.01.24 |
 |      [[1차]프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)      |     [✏️](./프렌즈4블록.js)     |  ⭐   | 23.07.13 |
 |         [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)          |      [✏️](./택배상자.js)       |  ⏮️   | 23.09.03 |
 |   [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |   [✏️](./연속된부분수열.js)    |  ⏮️   | 23.09.07 |

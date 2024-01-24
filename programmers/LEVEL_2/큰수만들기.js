@@ -1,45 +1,48 @@
 //그리디 알고리즘
 function solution(number, k) {
-  const stack = [];
+  const answer = [];
 
   for (let i = 0; i < number.length; i++) {
     const current = number[i];
-
-    while (stack.length > 0 && stack[stack.length - 1] < current && k > 0) {
-      stack.pop();
+    while (answer.length > 0 && answer[answer.length - 1] < current && k > 0) {
+      answer.pop();
       k -= 1;
     }
-
-    stack.push(current);
+    answer.push(current);
   }
 
+  // 작은 값이 계속 쌓였을 때
   while (k > 0) {
-    stack.pop();
+    answer.pop();
     k -= 1;
   }
 
-  return stack.join("");
+  return answer.join("");
 }
 
 //dfs(시간초과)
+
 function solution(number, k) {
-  const answer = [];
-
-  function dfs(idx, numStr) {
-    if (numStr.length === number.length - k) {
-      answer.push(numStr);
+  const check = Array.from({ length: number.length }, () => false);
+  let answer = Number.MIN_SAFE_INTEGER;
+  function dfs(depth, str) {
+    if (str.length === number.length - k) {
+      answer = Math.max(Number(str), answer);
       return;
     }
 
-    if (idx === number.length) {
-      return;
+    for (let i = depth + 1; i < number.length; i++) {
+      if (!check[i]) {
+        check[i] = true;
+        dfs(i, str + number[i]);
+        check[i] = false;
+      }
     }
-
-    dfs(idx + 1, numStr + number[idx]);
-    dfs(idx + 1, numStr);
   }
 
-  dfs(0, "");
+  for (let i = 0; i < number.length; i++) {
+    dfs(i, number[i]);
+  }
 
-  return answer.sort((a, b) => b - a)[0];
+  return answer.toString();
 }
