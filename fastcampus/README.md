@@ -81,12 +81,14 @@
 
 <br />
 
-|                        Quiz                        |             Code             | State |   Date   |
-| :------------------------------------------------: | :--------------------------: | :---: | :------: |
-|  [N-Queen](https://www.acmicpc.net/problem/9663)   | [✏️](./백트래킹/n-queen.js)  |  ☑️   | 24.01.18 |
-|   [N과 M](https://www.acmicpc.net/problem/15649)   |   [✏️](./백트래킹/n과m.js)   |  ☑️   | 24.01.19 |
-| [모든 순열](https://www.acmicpc.net/problem/10974) | [✏️](./백트래킹/모든순열.js) |  ☑️   | 24.01.21 |
-|  [0 만들기](https://www.acmicpc.net/problem/7490)  | [✏️](./백트래킹/0만들기.js)  |  ☑️   | 24.01.23 |
-| [N과 M(2)](https://www.acmicpc.net/problem/15650)  |  [✏️](./백트래킹/n과m2.js)   |  ☑️   | 24.01.24 |
-| [N과 M(3)](https://www.acmicpc.net/problem/15651)  |  [✏️](./백트래킹/n과m3.js)   |  ☑️   | 24.01.24 |
-| [N과 M(4)](https://www.acmicpc.net/problem/15652)  |  [✏️](./백트래킹/n과m4.js)   |  ☑️   | 24.01.24 |
+|                               Quiz                                |                 Code                 | State |   Date   |
+| :---------------------------------------------------------------: | :----------------------------------: | :---: | :------: |
+|          [N-Queen](https://www.acmicpc.net/problem/9663)          |     [✏️](./백트래킹/n-queen.js)      |  ☑️   | 24.01.18 |
+|          [N과 M](https://www.acmicpc.net/problem/15649)           |       [✏️](./백트래킹/n과m.js)       |  ☑️   | 24.01.19 |
+|        [모든 순열](https://www.acmicpc.net/problem/10974)         |     [✏️](./백트래킹/모든순열.js)     |  ☑️   | 24.01.21 |
+|         [0 만들기](https://www.acmicpc.net/problem/7490)          |     [✏️](./백트래킹/0만들기.js)      |  ☑️   | 24.01.23 |
+|         [N과 M(2)](https://www.acmicpc.net/problem/15650)         |      [✏️](./백트래킹/n과m2.js)       |  ☑️   | 24.01.24 |
+|         [N과 M(3)](https://www.acmicpc.net/problem/15651)         |      [✏️](./백트래킹/n과m3.js)       |  ☑️   | 24.01.24 |
+|         [N과 M(4)](https://www.acmicpc.net/problem/15652)         |      [✏️](./백트래킹/n과m4.js)       |  ☑️   | 24.01.24 |
+|      [외판원 순회 2](https://www.acmicpc.net/problem/10971)       |   [✏️](./백트래킹/외판원순회2.js)    |  ⭐   | 24.01.25 |
+| [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) | [✏️](./백트래킹/도영이가만든음식.js) |  ☑️   | 24.01.26 |
