@@ -92,3 +92,4 @@
 |         [N과 M(4)](https://www.acmicpc.net/problem/15652)         |      [✏️](./백트래킹/n과m4.js)       |  ☑️   | 24.01.24 |
 |      [외판원 순회 2](https://www.acmicpc.net/problem/10971)       |   [✏️](./백트래킹/외판원순회2.js)    |  ⭐   | 24.01.25 |
 | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) | [✏️](./백트래킹/도영이가만든음식.js) |  ☑️   | 24.01.26 |
+|           [로또](https://www.acmicpc.net/problem/6603)            |       [✏️](./백트래킹/로또.js)       |  ☑️   | 24.01.28 |
