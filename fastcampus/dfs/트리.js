@@ -39,7 +39,6 @@ while (test < input.length) {
     adj[a].push(b);
     adj[b].push(a);
   }
-  adj;
 
   function isCycle(cur, pre) {
     check[cur] = true;
