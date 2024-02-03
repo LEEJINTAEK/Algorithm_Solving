@@ -133,3 +133,5 @@ DFS를 실제로 구현할 때는 스택 혹은 재귀 함수를 이용한다.
 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)  | [✏️](./dfs/단지번호붙이기.js) |  ⏲️   | 24.01.31 |
 |   [텀 프로젝트](https://www.acmicpc.net/problem/9466)   |   [✏️](./dfs/텀프로젝트.js)   |  ⏲️   | 24.02.01 |
 |   [숫자고르기](https://www.acmicpc.net/problem/2668)    |   [✏️](./dfs/숫자고르기.js)   |  ☑️   | 24.02.02 |
+|    [적록색약](https://www.acmicpc.net/problem/10026)    |    [✏️](./dfs/적록색약.js)    |  ⏲️   | 24.02.03 |
+|     [연구소](https://www.acmicpc.net/problem/14502)     |     [✏️](./dfs/연구소.js)     |  ⭐   | 24.02.03 |
