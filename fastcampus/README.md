@@ -123,15 +123,17 @@ DFS를 실제로 구현할 때는 스택 혹은 재귀 함수를 이용한다.
 
 <br />
 
-|                          Quiz                           |             Code              | State |   Date   |
-| :-----------------------------------------------------: | :---------------------------: | :---: | :------: |
-|    [바이러스](https://www.acmicpc.net/problem/2606)     |    [✏️](./dfs/바이러스.js)    |  ☑️   | 24.01.29 |
-|   [유기농 배추](https://www.acmicpc.net/problem/1012)   |   [✏️](./dfs/유기농배추.js)   |  ☑️   | 24.01.29 |
-| [노드사이의 거리](https://www.acmicpc.net/problem/1240) | [✏️](./dfs/노드사이의거리.js) |  ☑️   | 24.01.30 |
-|      [트리](https://www.acmicpc.net/problem/4803)       |      [✏️](./dfs/트리.js)      |  ⏲️   | 24.01.30 |
-|   [치킨 배달](https://www.acmicpc.net/problem/15686)    |    [✏️](./dfs/치킨배달.js)    |  ⏲️   | 24.01.31 |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667)  | [✏️](./dfs/단지번호붙이기.js) |  ⏲️   | 24.01.31 |
-|   [텀 프로젝트](https://www.acmicpc.net/problem/9466)   |   [✏️](./dfs/텀프로젝트.js)   |  ⏲️   | 24.02.01 |
-|   [숫자고르기](https://www.acmicpc.net/problem/2668)    |   [✏️](./dfs/숫자고르기.js)   |  ☑️   | 24.02.02 |
-|    [적록색약](https://www.acmicpc.net/problem/10026)    |    [✏️](./dfs/적록색약.js)    |  ⏲️   | 24.02.03 |
-|     [연구소](https://www.acmicpc.net/problem/14502)     |     [✏️](./dfs/연구소.js)     |  ⭐   | 24.02.03 |
+|                           Quiz                           |             Code              | State |   Date   |
+| :------------------------------------------------------: | :---------------------------: | :---: | :------: |
+|     [바이러스](https://www.acmicpc.net/problem/2606)     |    [✏️](./dfs/바이러스.js)    |  ☑️   | 24.01.29 |
+|   [유기농 배추](https://www.acmicpc.net/problem/1012)    |   [✏️](./dfs/유기농배추.js)   |  ☑️   | 24.01.29 |
+| [노드사이의 거리](https://www.acmicpc.net/problem/1240)  | [✏️](./dfs/노드사이의거리.js) |  ☑️   | 24.01.30 |
+|       [트리](https://www.acmicpc.net/problem/4803)       |      [✏️](./dfs/트리.js)      |  ⏲️   | 24.01.30 |
+|    [치킨 배달](https://www.acmicpc.net/problem/15686)    |    [✏️](./dfs/치킨배달.js)    |  ⏲️   | 24.01.31 |
+|  [단지번호붙이기](https://www.acmicpc.net/problem/2667)  | [✏️](./dfs/단지번호붙이기.js) |  ⏲️   | 24.01.31 |
+|   [텀 프로젝트](https://www.acmicpc.net/problem/9466)    |   [✏️](./dfs/텀프로젝트.js)   |  ⏲️   | 24.02.01 |
+|    [숫자고르기](https://www.acmicpc.net/problem/2668)    |   [✏️](./dfs/숫자고르기.js)   |  ☑️   | 24.02.02 |
+|    [적록색약](https://www.acmicpc.net/problem/10026)     |    [✏️](./dfs/적록색약.js)    |  ⏲️   | 24.02.03 |
+|     [연구소](https://www.acmicpc.net/problem/14502)      |     [✏️](./dfs/연구소.js)     |  ⭐   | 24.02.03 |
+|  [차이를 최대로](https://www.acmicpc.net/problem/10819)  |  [✏️](./dfs/차이를최대로.js)  |  ☑️   | 24.02.04 |
+| [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [✏️](./dfs/연산자끼워넣기.js) |  ☑️   | 24.02.04 |
