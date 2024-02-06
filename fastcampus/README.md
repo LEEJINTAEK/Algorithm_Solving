@@ -169,10 +169,13 @@ DFS를 실제로 구현할 때는 스택 혹은 재귀 함수를 이용한다.
 
 <br />
 
-|                              Quiz                              |                 Code                 | State |   Date   |
-| :------------------------------------------------------------: | :----------------------------------: | :---: | :------: |
-|        [숨바꼭질](https://www.acmicpc.net/problem/1697)        |       [✏️](./bfs/숨바꼭질.js)        |  ☑️   | 24.02.04 |
-|     [나이트의 이동](https://www.acmicpc.net/problem/7562)      |     [✏️](./bfs/나이트의이동.js)      |  ☑️   | 24.02.04 |
-|         [4연산](https://www.acmicpc.net/problem/14395)         |         [✏️](./bfs/4연산.js)         |  ☑️   | 24.02.05 |
-|      [경쟁적전염](https://www.acmicpc.net/problem/18405)       |      [✏️](./bfs/경쟁적전염.js)       |  ☑️   | 24.02.05 |
-| [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [✏️](./bfs/특정거리의도시찾기.js.js) |  ☑️   | 24.02.05 |
+|                              Quiz                              |               Code                | State |   Date   |
+| :------------------------------------------------------------: | :-------------------------------: | :---: | :------: |
+|        [숨바꼭질](https://www.acmicpc.net/problem/1697)        |      [✏️](./bfs/숨바꼭질.js)      |  ☑️   | 24.02.04 |
+|     [나이트의 이동](https://www.acmicpc.net/problem/7562)      |    [✏️](./bfs/나이트의이동.js)    |  ☑️   | 24.02.04 |
+|         [4연산](https://www.acmicpc.net/problem/14395)         |       [✏️](./bfs/4연산.js)        |  ☑️   | 24.02.05 |
+|      [경쟁적전염](https://www.acmicpc.net/problem/18405)       |     [✏️](./bfs/경쟁적전염.js)     |  ☑️   | 24.02.05 |
+| [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [✏️](./bfs/특정거리의도시찾기.js) |  ☑️   | 24.02.05 |
+|          [환승](https://www.acmicpc.net/problem/5214)          |        [✏️](./bfs/환승.js)        |  ☑️   | 24.02.06 |
+|         [결혼식](https://www.acmicpc.net/problem/5567)         |       [✏️](./bfs/결혼식.js)       |  ☑️   | 24.02.06 |
+|          [치즈](https://www.acmicpc.net/problem/2638)          |        [✏️](./bfs/치즈.js)        |  ☑️   | 24.02.06 |
