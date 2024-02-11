@@ -216,4 +216,5 @@ DFS를 실제로 구현할 때는 스택 혹은 재귀 함수를 이용한다.
 |  [파도반 수열](https://www.acmicpc.net/problem/9461)   |  [✏️](./bfs/파도반수열.js)  |  ☑️   | 24.02.09 |
 |  [포도주 시식](https://www.acmicpc.net/problem/2156)   |  [✏️](./bfs/포도주시식.js)  |  ☑️   | 24.02.09 |
 |   [정수삼각형](https://www.acmicpc.net/problem/1932)   |  [✏️](./bfs/정수삼각형.js)  |  ☑️   | 24.02.09 |
-| [병사 배치하기](https://www.acmicpc.net/problem/18353) |  [✏️](./bfs/병사배치하기.js)  |  ☑️   | 24.02.09 |
+| [병사 배치하기](https://www.acmicpc.net/problem/18353) | [✏️](./bfs/병사배치하기.js) |  ☑️   | 24.02.10 |
+|   [1로 만들기](https://www.acmicpc.net/problem/1463)   |  [✏️](./bfs/1로만들기.js)   |  ☑️   | 24.02.11 |
