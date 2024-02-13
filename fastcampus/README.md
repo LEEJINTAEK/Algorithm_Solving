@@ -219,3 +219,4 @@ DFS를 실제로 구현할 때는 스택 혹은 재귀 함수를 이용한다.
 | [병사 배치하기](https://www.acmicpc.net/problem/18353) | [✏️](./dp/병사배치하기.js) |  ☑️   | 24.02.10 |
 |   [1로 만들기](https://www.acmicpc.net/problem/1463)   |  [✏️](./dp/1로만들기.js)   |  ⭐   | 24.02.11 |
 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)  |  [✏️](./dp/쉬운계단수.js)  |  ⭐   | 24.02.12 |
+|    [RGB거리](https://www.acmicpc.net/problem/1149)     |   [✏️](./dp/rgb거리.js)    |  ⭐   | 24.02.12 |
