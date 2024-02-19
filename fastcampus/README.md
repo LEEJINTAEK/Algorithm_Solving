@@ -220,6 +220,7 @@ DFS를 실제로 구현할 때는 스택 혹은 재귀 함수를 이용한다.
 |   [1로 만들기](https://www.acmicpc.net/problem/1463)   |  [✏️](./dp/1로만들기.js)   |  ⭐   | 24.02.11 |
 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)  |  [✏️](./dp/쉬운계단수.js)  |  ⭐   | 24.02.12 |
 |    [RGB거리](https://www.acmicpc.net/problem/1149)     |   [✏️](./dp/rgb거리.js)    |  ⭐   | 24.02.12 |
+|  [계단 오르기](https://www.acmicpc.net/problem/2579)   |  [✏️](./dp/계단오르기.js)  |  ☑️   | 24.02.19 |
 
 <br />
 <br />
