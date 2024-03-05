@@ -31,28 +31,26 @@ for (let i = 2; i <= m + 1; i++) {
   const [a, b, c] = input[i].split(" ").map(Number);
   graph[a][b] = Math.min(graph[a][b], c);
 }
-//거쳐가는 노드
+
 for (let i = 1; i <= n; i++) {
-  //시작
   for (let a = 1; a <= n; a++) {
-    //도착
     for (let b = 1; b <= n; b++) {
       const cost = graph[a][i] + graph[i][b];
-      if (graph[a][b] > cost) {
+      if (cost < graph[a][b]) {
         graph[a][b] = cost;
       }
     }
   }
 }
 
-for (let a = 1; a <= n; a++) {
+for (let i = 1; i <= n; i++) {
   const line = [];
-  for (let b = 1; b <= n; b++) {
-    if (graph[a][b] === INF) {
+  for (let j = 1; j <= n; j++) {
+    if (graph[i][j] === INF) {
       line.push(0);
       continue;
     }
-    line.push(graph[a][b]);
+    line.push(graph[i][j]);
   }
   console.log(line.join(" "));
 }
