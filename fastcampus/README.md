@@ -336,3 +336,4 @@ DFS를 실제로 구현할 때는 스택 혹은 재귀 함수를 이용한다.
 |   [합 구하기](https://www.acmicpc.net/problem/11441)    |   [✏️](./누적합/합구하기.js)    |  ☑️   | 24.03.05 |
 |   [나머지 합](https://www.acmicpc.net/problem/10986)    |   [✏️](./누적합/나머지합.js)    |  ☑️   | 24.03.05 |
 | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) | [✏️](./누적합/2차원배열의합.js) |  ⭐   | 24.03.06 |
+|     [부분합](https://www.acmicpc.net/problem/1806)      |    [✏️](./누적합/부분합.js)     |  ⭐   | 24.03.06 |
