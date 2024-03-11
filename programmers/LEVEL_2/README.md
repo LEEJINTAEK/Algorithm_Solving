@@ -95,3 +95,5 @@
 |           [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           |       [✏️](./후보키.js)        |  ⭐   | 23.12.20 |
 |          [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)          |      [✏️](./조이스틱.js)       |  ⭐   | 23.12.21 |
 |          [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)           |       [✏️](./nqueen.js)        |  ☑️   | 24.01.18 |
+|         [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)         |      [✏️](./광물캐기.js)       |  ☑️   | 24.03.11 |
+|     [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      |   [✏️](./혼자놀기의달인.js)    |  ☑️   | 24.03.11 |
