@@ -97,3 +97,4 @@
 |          [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)           |       [✏️](./nqueen.js)        |  ☑️   | 24.01.18 |
 |         [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)         |      [✏️](./광물캐기.js)       |  ☑️   | 24.03.11 |
 |     [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      |   [✏️](./혼자놀기의달인.js)    |  ☑️   | 24.03.11 |
+| [[카카오 인턴] 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)  |   [✏️](./혼자놀기의달인.js)    |  ⏲️   | 24.03.12 |
