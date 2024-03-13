@@ -37,7 +37,7 @@
 |   [피보나치](https://www.acmicpc.net/problem/9009)    |   [✏️](./greedy/피보나치.js)   |  ☑️   |          |
 | [박 터트리기](https://www.acmicpc.net/problem/19939)  |  [✏️](./greedy/박터트리기.js)  |  ⏪   | 24.01.08 |
 |     [회문](https://www.acmicpc.net/problem/17609)     |     [✏️](./greedy/회문.js)     |  ☑️   |          |
-|  [박스 채우기](https://www.acmicpc.net/problem/1493)  |  [✏️](./greedy/박스채우기.js)  |  ⭐   |          |
+|  [박스 채우기](https://www.acmicpc.net/problem/1493)  |  [✏️](./greedy/박스채우기.js)  |  ⏪   |          |
 
 <br />
 <br />
@@ -63,7 +63,7 @@
 |  [랜선 자르기](https://www.acmicpc.net/problem/1654)   |  [✏️](./binarySearch/랜선자르기.js)  |  ☑️   | 24.01.11 |
 |  [숫자 카드2](https://www.acmicpc.net/problem/10816)   |  [✏️](./binarySearch/숫자카드2.js)   |  ⏪   | 24.01.13 |
 | [병사 배치하기](https://www.acmicpc.net/problem/18353) | [✏️](./binarySearch/병사배치하기.js) |  ⏪   | 24.01.13 |
-|    [K번째 수](https://www.acmicpc.net/problem/1300)    |   [✏️](./binarySearch/k번째수.js)    |  ⭐   | 24.01.14 |
+|    [K번째 수](https://www.acmicpc.net/problem/1300)    |   [✏️](./binarySearch/k번째수.js)    |  ⏪   | 24.01.14 |
 
 <br />
 <br />
