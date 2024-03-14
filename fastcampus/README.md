@@ -90,7 +90,7 @@
 |         [N과 M(2)](https://www.acmicpc.net/problem/15650)         |      [✏️](./백트래킹/n과m2.js)       |  ☑️   | 24.01.24 |
 |         [N과 M(3)](https://www.acmicpc.net/problem/15651)         |      [✏️](./백트래킹/n과m3.js)       |  ☑️   | 24.01.24 |
 |         [N과 M(4)](https://www.acmicpc.net/problem/15652)         |      [✏️](./백트래킹/n과m4.js)       |  ☑️   | 24.01.24 |
-|      [외판원 순회 2](https://www.acmicpc.net/problem/10971)       |   [✏️](./백트래킹/외판원순회2.js)    |  ⭐   | 24.01.25 |
+|      [외판원 순회 2](https://www.acmicpc.net/problem/10971)       |   [✏️](./백트래킹/외판원순회2.js)    |  ⏪   | 24.01.25 |
 | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) | [✏️](./백트래킹/도영이가만든음식.js) |  ☑️   | 24.01.26 |
 |           [로또](https://www.acmicpc.net/problem/6603)            |       [✏️](./백트래킹/로또.js)       |  ☑️   | 24.01.28 |
 |          [알파벳](https://www.acmicpc.net/problem/1987)           |      [✏️](./백트래킹/알파벳.js)      |  ☑️   | 24.01.28 |
@@ -134,7 +134,7 @@ DFS를 실제로 구현할 때는 스택 혹은 재귀 함수를 이용한다.
 |   [텀 프로젝트](https://www.acmicpc.net/problem/9466)    |   [✏️](./dfs/텀프로젝트.js)   |  ⏪   | 24.02.01 |
 |    [숫자고르기](https://www.acmicpc.net/problem/2668)    |   [✏️](./dfs/숫자고르기.js)   |  ☑️   | 24.02.02 |
 |    [적록색약](https://www.acmicpc.net/problem/10026)     |    [✏️](./dfs/적록색약.js)    |  ⏪   | 24.02.03 |
-|     [연구소](https://www.acmicpc.net/problem/14502)      |     [✏️](./dfs/연구소.js)     |  ⭐   | 24.02.03 |
+|     [연구소](https://www.acmicpc.net/problem/14502)      |     [✏️](./dfs/연구소.js)     |  ⏪   | 24.02.03 |
 |  [차이를 최대로](https://www.acmicpc.net/problem/10819)  |  [✏️](./dfs/차이를최대로.js)  |  ☑️   | 24.02.04 |
 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [✏️](./dfs/연산자끼워넣기.js) |  ☑️   | 24.02.04 |
 
