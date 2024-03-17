@@ -1,23 +1,26 @@
 function solution(n, k, enemy) {
-  const rounds = []; // 라운드에 사용할 무적권을 저장하는 배열
-  let soldiers = n;
-  let answer = 0;
+  let [left, right] = [0, enemy.length];
+  let mid = Math.floor((left + right) / 2);
 
-  for (let i = 0; i < enemy.length; i++) {
-    rounds.push(enemy[i]);
-    soldiers -= enemy[i];
+  while (left <= right) {
+    const round = enemy.slice(0, mid).sort((a, b) => b - a);
+    let fever = k;
+    const remain = round.reduce((acc, val) => {
+      if (fever > 0) {
+        fever -= 1;
+        return acc;
+      }
+      return acc + val;
+    }, 0);
 
-    while (soldiers < 0) {
-      const maxRound = Math.max(...rounds);
-      soldiers += maxRound;
-      k -= 1;
-      if (k < 0) return answer;
-      const index = rounds.indexOf(maxRound);
-      rounds.splice(index, 1);
+    if (n - remain >= 0 && fever >= 0) {
+      left = mid + 1;
+    } else {
+      right = mid - 1;
     }
 
-    answer += 1;
+    mid = Math.floor((left + right) / 2);
   }
 
-  return answer;
+  return left - 1;
 }
