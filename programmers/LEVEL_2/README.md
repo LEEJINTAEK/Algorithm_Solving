@@ -99,3 +99,4 @@
 |     [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      |   [✏️](./혼자놀기의달인.js)    |  ☑️   | 24.03.11 |
 | [[카카오 인턴] 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)  |   [✏️](./혼자놀기의달인.js)    |  ⏲️   | 24.03.12 |
 |        [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)        |     [✏️](./디펜스게임.js)      |  ⭐   | 24.03.17 |
+|     [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)     |  [✏️](./이모티콘할인행사.js)   |  ☑️   | 24.03.18 |
