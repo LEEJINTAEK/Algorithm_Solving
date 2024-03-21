@@ -1,9 +1,6 @@
 function solution(N, number) {
-  const dp = Array(9)
-    .fill()
-    .map(() => new Set());
-
-  for (let i = 1; i < 9; i++) {
+  const dp = Array.from({ length: 10 }, () => new Set());
+  for (let i = 1; i <= 9; i++) {
     dp[i].add(Number(N.toString().repeat(i)));
   }
 
@@ -24,6 +21,5 @@ function solution(N, number) {
       return i;
     }
   }
-
   return -1;
 }
