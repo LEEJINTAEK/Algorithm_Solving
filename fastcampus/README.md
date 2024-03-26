@@ -217,8 +217,8 @@ DFS를 실제로 구현할 때는 스택 혹은 재귀 함수를 이용한다.
 |  [포도주 시식](https://www.acmicpc.net/problem/2156)   |  [✏️](./dp/포도주시식.js)  |  ☑️   | 24.02.09 |
 |   [정수삼각형](https://www.acmicpc.net/problem/1932)   |  [✏️](./dp/정수삼각형.js)  |  ☑️   | 24.02.09 |
 | [병사 배치하기](https://www.acmicpc.net/problem/18353) | [✏️](./dp/병사배치하기.js) |  ☑️   | 24.02.10 |
-|   [1로 만들기](https://www.acmicpc.net/problem/1463)   |  [✏️](./dp/1로만들기.js)   |  ⭐   | 24.02.11 |
-| [쉬운 계단 수](https://www.acmicpc.net/problem/10844)  |  [✏️](./dp/쉬운계단수.js)  |  ⭐   | 24.02.12 |
+|   [1로 만들기](https://www.acmicpc.net/problem/1463)   |  [✏️](./dp/1로만들기.js)   |  ⏪   | 24.02.11 |
+| [쉬운 계단 수](https://www.acmicpc.net/problem/10844)  |  [✏️](./dp/쉬운계단수.js)  |  ⏪   | 24.02.12 |
 |    [RGB거리](https://www.acmicpc.net/problem/1149)     |   [✏️](./dp/rgb거리.js)    |  ⭐   | 24.02.12 |
 |  [계단 오르기](https://www.acmicpc.net/problem/2579)   |  [✏️](./dp/계단오르기.js)  |  ☑️   | 24.02.19 |
 
