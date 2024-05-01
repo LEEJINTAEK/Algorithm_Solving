@@ -27,3 +27,21 @@ for (let i = 1; i <= n; i++) {
 }
 
 console.log(answer.map((x) => x.join(" ")).join("\n"));
+
+//
+//
+//파이썬
+
+// n = int(input())
+
+// def dfs(arr):
+//   if len(arr) == n:
+//     print(' '.join(map(str, arr)))
+//     return
+//   for i in range(1, n+1):
+//     if i not in arr:
+//       arr.append(i)
+//       dfs(arr)
+//       arr.pop()
+
+// dfs([])

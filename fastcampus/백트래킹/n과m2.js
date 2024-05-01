@@ -59,3 +59,18 @@ function dfs(arr, depth, start) {
 }
 dfs(arr, 0, 0);
 console.log(answer);
+
+//
+//
+//파이썬
+// n,m = map(int, input().split())
+
+// def dfs(arr,start):
+//     if len(arr) == m:
+//         print(' '.join(map(str, arr)))
+//         return
+//     for i in range(start, n+1):
+//           arr.append(i)
+//           dfs(arr,i+1)
+//           arr.pop()
+// dfs([],1)
