@@ -6,7 +6,6 @@ const ingredient = [];
 for (let i = 1; i <= n; i++) {
   ingredient.push(input[i].split(" ").map(Number));
 }
-ingredient;
 let min = Number.MAX_SAFE_INTEGER;
 
 function dfs(cur, sourness, bitters) {
@@ -20,3 +19,25 @@ function dfs(cur, sourness, bitters) {
 }
 dfs(0, 1, 0);
 console.log(min);
+
+//
+//
+//파이썬
+// n = int(input())
+// ingredient = []
+// for _ in range(n):
+//   ingredient.append(list(map(int, input().split())))
+
+// answer = float('inf')
+
+// def dfs(cur,s,b):
+//   global answer
+//   if cur > 0:
+//     cal = abs(s-b)
+//     answer = min(cal, answer)
+//   for i in range(cur, n):
+//     dfs(i + 1, s * ingredient[i][0], b + ingredient[i][1])
+
+// dfs(0,1,0)
+
+// print(answer)

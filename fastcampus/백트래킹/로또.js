@@ -37,3 +37,20 @@ for (let test = 0; test < input.length; test++) {
 
   console.log(answer.join("\n") + "\n");
 }
+
+//
+//
+//파이썬
+
+// from itertools import combinations
+
+// while True:
+//   line = input()
+//   if line == '0':
+//     break
+//   line = list(map(int, line.split()))
+//   k = line[0]
+//   s = line[1:]
+//   for combination in combinations(s,6):
+//     print(" ".join(map(str,combination)))
+//   print()

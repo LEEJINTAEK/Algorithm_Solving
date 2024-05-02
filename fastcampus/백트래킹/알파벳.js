@@ -37,3 +37,41 @@ check.add(input[0][0]);
 dfs(0, 0, 1);
 
 console.log(answer);
+
+//
+//
+//파이썬
+
+// r,c = map(int, input().split())
+// input_map = []
+// for _ in range(r):
+//   input_map.append(input())
+
+// dx = [0,0,-1,1]
+// dy = [1,-1,0,0]
+// check = set()
+// check.add(input_map[0][0])
+// answer = 0
+
+// def dfs(row,col,cnt):
+
+//   global answer
+//   answer = max(answer,cnt)
+
+//   for i in range(4):
+
+//     ny,nx = row + dy[i], col + dx[i]
+//     if ny < 0 or nx < 0 or ny >= r or nx >= c:
+//       continue
+
+//     next = input_map[ny][nx]
+
+//     if next in check:
+//       continue
+
+//     check.add(next)
+//     dfs(ny,nx,cnt+1)
+//     check.remove(next)
+
+// dfs(0,0,1)
+// print(answer)

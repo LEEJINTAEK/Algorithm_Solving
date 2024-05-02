@@ -51,3 +51,51 @@ for (let i = 0; i <= k; i++) {
 
 console.log(`${maxStr}
 ${minStr}`);
+
+//
+//
+//파이썬
+
+// n = int(input())
+// compare = input().split()
+
+// max_value = float('-inf')
+// min_value = float('inf')
+// max_answer = ''
+// min_answer = ''
+
+// def dfs(compare_idx, arr):
+
+//   if compare_idx == n:
+//     global min_answer, max_answer, min_value, max_value
+//     num = ''.join(map(str,arr))
+//     if min_value > int(num):
+//       min_value = int(num)
+//       min_answer = num
+//     if max_value < int(num):
+//       max_value = int(num)
+//       max_answer = num
+//     return
+
+//   cur_compare = compare[compare_idx]
+
+//   for i in range(0,10):
+
+//     if i in arr:
+//       continue
+
+//     possible = False
+//     if cur_compare == '<':
+//       possible = arr[-1] < i
+//     else:
+//       possible = arr[-1] > i
+
+//     if possible:
+//       arr.append(i)
+//       dfs(compare_idx + 1, arr)
+//       arr.pop()
+
+// for i in range(0,10):
+//   dfs(0, [i])
+
+// print(f'{max_answer}\n{min_answer}')
