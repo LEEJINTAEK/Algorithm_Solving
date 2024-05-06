@@ -24,3 +24,28 @@ while (queue.length) {
     }
   }
 }
+
+//
+//
+//파이썬
+
+// from collections import deque
+
+// n,k = map(int, input().split())
+// q = deque([(n,0)])
+// check = set()
+
+// while q:
+//   cur,cnt = q.popleft()
+//   if cur == k:
+//     print(cnt)
+//     break
+//   if cur in check:
+//     continue
+//   if cur < 0 or cur >100000:
+//     continue
+
+//   check.add(cur)
+//   q.append((cur-1, cnt+1))
+//   q.append((cur+1, cnt+1))
+//   q.append((cur*2, cnt+1))

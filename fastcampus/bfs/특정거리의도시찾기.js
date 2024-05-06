@@ -37,3 +37,39 @@ for (let i = 1; i <= n; i++) {
 if (!success) {
   console.log(-1);
 }
+
+//
+//
+//파이썬
+
+// from collections import deque
+
+// n,m,k,x = map(int,input().split())
+// graph = [[] for _ in range(n+1)]
+// for _ in range(m):
+//   a,b = map(int, input().split())
+//   graph[a].append(b)
+
+// q = deque([x])
+// check = [-1] * (n + 1)
+// check[x] = 0
+
+// while q:
+//   cur = q.popleft()
+
+//   for next in graph[cur]:
+//       if check[next] != -1:
+//         continue
+//       check[next] = check[cur] + 1
+//       q.append(next)
+
+// answer =  ''
+
+// for i in range(1, n+1):
+//    if check[i] == k:
+//       answer += str(i) + '\n'
+
+// if answer == '':
+//    print(-1)
+// else:
+//    print(answer.strip())

@@ -67,3 +67,39 @@ for (let test = 1; test <= testCase; test++) {
 
   start += 3;
 }
+
+//
+//
+//파이썬
+
+// from collections import deque
+
+// test_case = int(input())
+// for test in range(test_case):
+//   n = int(input())
+//   check = [[0] * n for _ in range(n)]
+//   sR, sC = map(int, input().split())
+//   tR, tC = map(int, input().split())
+//   q = deque([[sR, sC, 0]])
+
+//   while q:
+//     cR, cC, cnt = q.popleft()
+
+//     if cR == tR and cC == tC:
+//       print(cnt)
+//       break
+
+//     if cR < 0 or cC < 0 or cR >= n or cC >= n:
+//       continue
+//     if check[cR][cC] == 1:
+//       continue
+
+//     check[cR][cC] = 1
+//     q.append([cR-2, cC-1 ,cnt+1])
+//     q.append([cR-1, cC-2 ,cnt+1])
+//     q.append([cR-1, cC+2 ,cnt+1])
+//     q.append([cR-2, cC+1 ,cnt+1])
+//     q.append([cR+2, cC-1 ,cnt+1])
+//     q.append([cR+1, cC-2 ,cnt+1])
+//     q.append([cR+2, cC+1 ,cnt+1])
+//     q.append([cR+1, cC+2 ,cnt+1])

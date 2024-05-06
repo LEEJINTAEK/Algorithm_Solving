@@ -38,3 +38,38 @@ while (data.length) {
 }
 
 console.log(map[y - 1][x - 1]);
+
+//
+//
+//파이썬
+
+// from collections import deque
+// n, k = map(int,input().split())
+// data = []
+// check = []
+// for i in range(n):
+//   row = list(map(int, input().split()))
+//   check.append(row)
+//   for j in range(n):
+//     if row[j] != 0:
+//       data.append([row[j], i, j, 0])
+
+// data.sort(key=lambda x: x[0])
+// q = deque(data)
+// s, x, y = map(int, input().split())
+// dy = [0,0,1,-1]
+// dx = [1,-1,0,0]
+// while q:
+//   virus, r, c, time = q.popleft()
+
+//   if time == s:
+//     break
+
+//   for i in range(4):
+//     ny, nx = r + dy[i], c + dx[i]
+//     if ny < 0 or nx < 0 or ny >= n or nx >= n or check[ny][nx] !=0:
+//       continue
+//     check[ny][nx] = virus
+//     q.append([virus, ny, nx, time+1])
+
+// print(check[x-1][y-1])
