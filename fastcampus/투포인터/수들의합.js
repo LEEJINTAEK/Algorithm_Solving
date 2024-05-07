@@ -20,3 +20,24 @@ for (let lp = 0; lp < n; lp++) {
 }
 
 console.log(answer);
+
+//
+//
+// 파이썬
+
+// n, m = map(int, input().split())
+// nums = list(map(int, input().split()))
+// cal = 0
+// answer =0
+// r = 0
+// for l in range(n):
+//   while cal < m  and r < n:
+//     cal += nums[r]
+//     r += 1
+
+//   if cal == m:
+//     answer += 1
+
+//   cal -= nums[l]
+
+// print(answer)

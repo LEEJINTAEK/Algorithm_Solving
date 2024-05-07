@@ -29,3 +29,13 @@ while (j < m) {
 }
 
 console.log(answer.join(" "));
+
+//
+//
+// 파이썬, 투포인터 불필요
+// n, m = map(int, input().split())
+// a = list(map(int, input().split()))
+// b = list(map(int, input().split()))
+// a.extend(b)
+// a.sort()
+// print(' '.join(map(str, a)))

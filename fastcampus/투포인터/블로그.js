@@ -37,3 +37,36 @@ if (maxSum === 0) {
   console.log(maxSum);
   console.log(cnt);
 }
+
+//
+//
+//파이썬
+// n,x = map(int, input().split())
+// visitor = list(map(int, input().split()))
+// sum = 0
+// for i in range(0,x):
+//   sum += visitor[i]
+// max_sum = sum
+// left,right = 1, x
+// cnt = 1
+
+// while True:
+
+//   if right == n:
+//     break
+
+//   sum = sum - visitor[left-1] + visitor[right]
+
+//   if max_sum == sum:
+//     cnt += 1
+//   if max_sum < sum:
+//     max_sum = sum
+//     cnt = 1
+
+//   right += 1
+//   left += 1
+
+// if max_sum == 0 :
+//   print('SAD')
+// else:
+//   print(max_sum,cnt, sep='\n')

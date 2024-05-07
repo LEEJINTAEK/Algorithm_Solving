@@ -26,3 +26,26 @@ while (lp < rp) {
 }
 
 console.log(answer);
+
+//
+//
+//파이썬
+
+// n = int(input())
+// nums = list(map(int, input().split()))
+// x = int(input())
+// nums.sort()
+// l,r = 0, n-1
+// answer = 0
+// cal = 0
+// while l < r:
+//   cal = nums[l] + nums[r]
+//   if cal == x:
+//     answer += 1
+
+//   if cal > x:
+//     r-=1
+//   else:
+//     l+=1
+
+// print(answer)

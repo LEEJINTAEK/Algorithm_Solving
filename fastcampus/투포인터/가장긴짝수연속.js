@@ -28,3 +28,31 @@ for (let start = 0; start < n; start++) {
 }
 
 console.log(answer);
+
+//
+//
+//파이썬
+
+// n, k = map(int, input().split())
+// s = list(map(int, input().split()))
+
+// end = 0
+// cnt = 0
+// answer = 0
+
+// for start in range(n):
+//   while end < n:
+//     if s[end] % 2 == 0:
+//       end += 1
+//     else:
+//       if cnt == k:
+//         break
+//       cnt += 1
+//       end += 1
+
+//   answer = max(answer, end - start - cnt)
+
+//   if s[start] % 2 !=0 :
+//     cnt -= 1
+
+// print(answer)
