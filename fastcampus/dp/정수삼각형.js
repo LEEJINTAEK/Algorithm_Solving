@@ -13,3 +13,18 @@ for (let i = n - 1; i > 0; i--) {
   }
 }
 console.log(dp[1][0]);
+
+//
+//
+//파이썬
+
+// n = int(input())
+// data = [list(map(int,input().split())) for _ in range(n-1)]
+// dp = [[0]*i for i in range(1, n)]
+// dp.append(list(map(int,input().split())))
+
+// for i in range(n-2, -1, -1):
+//     for j in range(i, -1, -1):
+//         dp[i][j] = max(data[i][j] + dp[i+1][j], data[i][j] + dp[i+1][j+1])
+
+// print(dp[0][0])
