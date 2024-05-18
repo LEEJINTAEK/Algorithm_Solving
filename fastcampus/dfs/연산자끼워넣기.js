@@ -96,3 +96,52 @@ ${minNum}`);
 //     div++;
 //   }
 // }
+
+//
+//
+//파이썬
+
+// n = int(input())
+// nums = list(map(int, input().split()))
+// operator_cnt = list(map(int, input().split()))
+// operator_dict = ['+', '-', '*', '/']
+// min_value = float('inf')
+// max_value = float('-inf')
+
+// def cal(operator):
+//     total = nums[0]
+//     i = 1
+//     for op in operator:
+//         if op == '+':
+//             total += nums[i]
+//         if op == '-':
+//             total -= nums[i]
+//         if op == '*':
+//             total *= nums[i]
+//         if op == '/':
+//             if total < 0:
+//                 total = -(-total // nums[i])
+//             else:
+//                 total = total // nums[i]
+
+//         i += 1
+
+//     return total
+
+// def dfs(depth, operator):
+//     if depth == n - 1:
+//         global min_value, max_value
+//         num = cal(operator)
+//         min_value = min(min_value, num)
+//         max_value = max(max_value, num)
+//         return
+
+//     for i in range(4):
+//         if operator_cnt[i] > 0:
+//             operator_cnt[i] -= 1
+//             dfs(depth + 1, operator + operator_dict[i])
+//             operator_cnt[i] += 1
+
+// dfs(0, '')
+
+// print(max_value, min_value, sep='\n')

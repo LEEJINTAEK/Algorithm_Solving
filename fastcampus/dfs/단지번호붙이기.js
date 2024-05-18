@@ -43,3 +43,40 @@ for (let i = 0; i < n; i++) {
 
 answer.sort((a, b) => a - b);
 console.log(`${answer.length}\n${answer.join("\n")}`);
+
+//
+//
+//파이썬
+
+// n = int(input())
+// matrix = [list(map(int,list(input()))) for _ in range(n)]
+// dx,dy = [0,0,-1,1], [1,-1,0,0]
+
+// def dfs(row, col):
+
+//     if row < 0 or col < 0 or row >= n or col >= n:
+//         return 0
+
+//     if matrix[row][col] == 1:
+//         matrix[row][col] -= 1
+//         result = 1
+//         for i in range(4):
+//             result += dfs(row+dy[i], col+dx[i])
+
+//         return result
+
+//     return 0
+
+// answer = []
+
+// for i in range(n):
+//     for j in range(n):
+//         cnt = dfs(i,j)
+
+//         if cnt>0:
+//             answer.append(cnt)
+
+// answer.sort()
+// print(len(answer))
+// for a in answer:
+//     print(a)

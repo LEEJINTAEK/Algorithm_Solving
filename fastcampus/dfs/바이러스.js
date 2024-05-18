@@ -31,3 +31,34 @@ check[1] = 1;
 dfs(1);
 
 console.log(answer - 1);
+
+//
+//
+//파이썬
+
+// n = int(input())
+// m = int(input())
+// graph = [[] for _ in range(n+1)]
+
+// for _ in range(m):
+//     a, b = map(int, input().split())
+//     graph[a].append(b)
+//     graph[b].append(a)
+
+// check = [0] * (n+1)
+// answer = 0
+// check[1] = 1
+
+// def dfs(cur):
+//     global answer
+//     answer = max(answer, sum(check))
+
+//     for next in graph[cur]:
+//         if check[next] == 1:
+//             continue
+//         check[next] = 1
+//         dfs(next)
+
+// dfs(1)
+
+// print(answer-1)

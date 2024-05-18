@@ -36,3 +36,20 @@ for (let i = 0; i < n; i++) {
 }
 
 console.log(answer);
+
+//
+//
+//파이썬
+
+// from itertools import permutations
+
+// n = int(input())
+// arr = list(map(int, input().split()))
+// answer = 0
+// for permutation in permutations(arr, n):
+//     total = 0
+//     for i in range(n-1):
+//         total += abs(permutation[i] - permutation[i+1])
+//     answer = max(answer, total)
+
+// print(answer)

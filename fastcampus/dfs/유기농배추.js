@@ -70,3 +70,44 @@ for (let test = 1; test <= testCase; test++) {
 
   start += k + 1;
 }
+
+//
+//
+//파이썬
+
+// import sys
+// sys.setrecursionlimit(10000)
+
+// test_case = int(input())
+// for test in range(1, test_case+1):
+//     n, m, k = map(int, input().split())
+
+//     matrix = [[0] * n for _ in range(m)]
+
+//     for _ in range(k):
+//         x,y = map(int,input().split())
+//         matrix[y][x] = 1
+
+//     def dfs(row, col):
+
+//         if row < 0 or col < 0 or row >= m or col >= n:
+//             return False
+
+//         if matrix[row][col] == 1:
+//             matrix[row][col] -= 1
+//             dfs(row+1, col)
+//             dfs(row-1, col)
+//             dfs(row, col+1)
+//             dfs(row, col-1)
+
+//             return True
+
+//         return False
+
+//     answer = 0
+//     for i in range(m):
+//         for j in range(n):
+//             if dfs(i,j):
+//                 answer += 1
+
+//     print(answer)
