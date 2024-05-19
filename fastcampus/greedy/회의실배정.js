@@ -31,3 +31,20 @@ function solution(n, times) {
 }
 
 console.log(solution(n, times));
+
+//
+//
+//파이썬
+
+// n = int(input())
+// schedule = [list(map(int,input().split())) for _ in range(n)]
+// schedule.sort(key= lambda x : (x[1],x[0]))
+// answer = 1
+// pre_time = schedule[0][1]
+
+// for seq in range(1,n):
+//     start,end = schedule[seq]
+//     if pre_time <= start:
+//         answer += 1
+//         pre_time = end
+// print(answer)

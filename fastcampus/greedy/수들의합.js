@@ -14,3 +14,14 @@ function solution(s) {
 }
 
 console.log(solution(s));
+
+//
+//
+//파이썬
+// n = int(input())
+// total = 0
+// cur = 1
+// while total<=n:
+//     total += cur
+//     cur += 1
+// print(cur-2)

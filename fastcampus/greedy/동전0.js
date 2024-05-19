@@ -17,3 +17,19 @@ for (const coin of arr) {
 }
 
 console.log(cnt);
+
+//
+//
+//파이썬
+
+// n, k = map(int, input().split())
+// coin = [int(input()) for _ in range(n)]
+// coin.sort(reverse=True)
+// answer = 0
+// for c in coin:
+//     if c > k:
+//         continue
+//     answer += k // c
+//     k = k % c
+
+// print(answer)

@@ -22,3 +22,22 @@ function solution(n, distance, fee) {
 }
 
 console.log(solution(n, distance, fee));
+
+//
+//
+//파이썬
+
+// n = int(input())
+// distance = list(map(int, input().split()))
+// fee = list(map(int, input().split()))
+
+// prior = [0] * n
+// prior[0] = fee[0]
+// for i in range(1, n):
+//     prior[i] = min(prior[i-1], fee[i])
+
+// answer = 0
+// for i in range(n-1):
+//     answer += distance[i] * prior[i]
+
+// print(answer)

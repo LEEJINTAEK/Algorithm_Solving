@@ -23,3 +23,32 @@ function solution(start, target) {
 }
 
 console.log(solution(a, b));
+
+//
+//
+//파이썬
+
+// start, end = map(int,input().split())
+
+// answer = 1
+// possible = False
+
+// while end>=start:
+
+//     if end == start:
+//         possible = True
+//         break
+
+//     if end % 2 == 0:
+//         end //= 2
+//     elif end % 10 == 1:
+//         end //= 10
+//     else:
+//         break
+
+//     answer += 1
+
+// if possible:
+//     print(answer)
+// else:
+//     print(-1)

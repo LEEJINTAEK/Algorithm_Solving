@@ -28,3 +28,20 @@ for (let tc = 1; tc <= testCase; tc++) {
   console.log(solution(data));
   line += n + 1;
 }
+
+//
+//
+//파이썬
+
+// test_case = int(input())
+// for _ in range(test_case):
+//     n = int(input())
+//     arr = [list(map(int, input().split())) for _ in range(n)]
+//     arr.sort(key=lambda x : x[0])
+//     answer = 0
+//     min_value = float('inf')
+//     for x,y in arr:
+//         if y < min_value:
+//             answer += 1
+//             min_value = y
+//     print(answer)
