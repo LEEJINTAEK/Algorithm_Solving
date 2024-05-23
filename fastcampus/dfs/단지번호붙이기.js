@@ -80,3 +80,69 @@ console.log(`${answer.length}\n${answer.join("\n")}`);
 // print(len(answer))
 // for a in answer:
 //     print(a)
+
+// //현대 소프티어
+
+// function solution(n, arr){
+// 	let answer = []
+// 	let [dx,dy] = [[0,0,-1,1], [1,-1,0,0]]
+
+// 	function dfs(x,y){
+
+// 		if(x>=n || y>=n || x<0 || y<0){
+// 			return 0
+// 		}
+// 		if(arr[x][y] == 1){
+// 			arr[x][y] -= 1
+// 			let cnt = 1
+// 			for(let i = 0; i<4; i++){
+// 				let [nx,ny] = [x+dx[i], y+dy[i]]
+// 				cnt += dfs(nx,ny)
+// 			}
+// 			return cnt
+// 		}
+
+// 		return 0
+// 	}
+
+// 	for(let i = 0; i<n; i++){
+// 		for(let j = 0; j<n; j++){
+// 			let count = dfs(i,j)
+// 			if(count>0){
+// 				answer.push(count)
+// 			}
+// 		}
+// 	}
+
+// 	len = answer.length
+// 	answer.sort((a,b)=>a-b)
+
+// 	if(len > 0){
+// 		console.log(len)
+// 		console.log(answer.join(' '))
+// 	}else{
+// 		console.log(0)
+// 	}
+// }
+
+// // Run by Node.js
+// const readline = require('readline');
+
+// (async () => {
+// 	let rl = readline.createInterface({ input: process.stdin });
+// 	let n = 0
+// 	let arr = []
+// 	for await (const line of rl) {
+// 		if(n===0){
+// 			n = Number(line)
+// 		}else{
+// 			arr.push(line.split(' ').map(Number))
+// 		}
+
+// 		if(arr.length === n){
+// 			rl.close()
+// 		}
+// 	}
+// 	solution(n, arr)
+// 	process.exit();
+// })();

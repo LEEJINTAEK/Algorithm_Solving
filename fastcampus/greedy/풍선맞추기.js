@@ -35,11 +35,10 @@ rl.on("line", function (line) {
 
 // n = int(input())
 // height = tuple(map(int, input().split()))
-// arrow = [0] * (n+1)
+// arrow = [0] * (max(height)+1)
 // answer = 0
 // for h in height:
 //     arrow[h-1] += 1
-
 //     if arrow[h] > 0:
 //         arrow[h] -= 1
 //     else:
