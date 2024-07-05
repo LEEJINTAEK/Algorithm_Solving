@@ -146,3 +146,54 @@ console.log(`${answer.length}\n${answer.join("\n")}`);
 // 	solution(n, arr)
 // 	process.exit();
 // })();
+
+//bfs풀이
+//// const fs = require("fs");
+// const input = fs.readFileSync("/dev/stdin").toString().split("\n");
+const input = [
+  "7",
+  "0110100",
+  "0110101",
+  "1110101",
+  "0000111",
+  "0100000",
+  "0111110",
+  "0111000",
+];
+
+const n = Number(input.shift());
+const map = input.map((x) => x.split("").map(Number));
+
+const dx = [0, 0, -1, 1];
+const dy = [1, -1, 0, 0];
+
+const answer = [];
+for (let i = 0; i < n; i++) {
+  for (let j = 0; j < n; j++) {
+    const queue = [[i, j]];
+    let cnt = 0;
+    while (queue.length) {
+      const [row, col, cost] = queue.shift();
+      if (row < 0 || col < 0 || row >= n || col >= n) {
+        continue;
+      }
+      if (map[row][col] !== 1) {
+        continue;
+      }
+      map[row][col] -= 1;
+      cnt += 1;
+      for (let k = 0; k < dx.length; k++) {
+        const [ny, nx] = [row + dy[k], col + dx[k]];
+        queue.push([ny, nx]);
+      }
+    }
+    if (cnt > 0) {
+      answer.push(cnt);
+    }
+  }
+}
+answer.sort((a, b) => a - b);
+console.log(answer.length);
+for (const n of answer) {
+  console.log(n);
+}
